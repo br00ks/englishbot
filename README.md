@@ -14,5 +14,9 @@ The backend is based on the open source machine learning framework [Rasa](https:
 ## Error Correction (LanguageTool)
 A LanguageTool Server takes care of error correction. It's an open source proof reading tool for English and many other languages and comes with an own local java server. The server can be accessed via HTTP calls and gets back the results als JSON data.
 
+Needs to be downloaded here:
+- [LanguageTool Server](http://wiki.languagetool.org/http-server)
+- and also n-gram data here: [ngram data](https://languagetool.org/download/ngram-data/)
+
 ## Not implemented yet
 - MongoDB connection
