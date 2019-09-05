@@ -1,5 +1,5 @@
 # EnglishBot 
-<img src="/images/icon_1024x1024.png" width="48">
+<img src="/images/icon_1024x1024.png" width="75">
 EnglishBot is an Android prototype to practice English with. Its main component is a conversational agent based on Rasa. 
 
 ## Frontend (Android)
