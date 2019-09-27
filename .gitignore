@@ -1,1 +1,14 @@
-languagetool/
+languagetool/ngrams-en-20150817
+languagetool/libs
+languagetool/META-INF
+languagetool/org
+languagetool/third-party-licenses
+languagetool/CHANGES.md
+languagetool/CHANGES.txt
+languagetool/COPYING.txt
+languagetool/hs_err_pid22617.log
+languagetool/languagetool.jar
+languagetool/languagetool-commandline.jar
+languagetool/languagetool-server.jar
+languagetool/testrules.bat
+languagetool/testrules.sh
