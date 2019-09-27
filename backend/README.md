@@ -6,7 +6,7 @@ This is the backend for the EnglishBot application.
 - Python3 (tested with 3.6.8)
 
 ## Install
-First you need to clone this repository and install the required packages:
+Install the required packages:
 
 `pip install -r requirements.txt`
 
