@@ -1,0 +1,211 @@
+## intent:greet.goodbye
+- okay see you later
+- hope to see you later
+- bye for now
+- till next time
+- I must go
+- bye
+- goodbye
+- see you
+- see you soon
+- bye-bye
+- bye bye good night
+- good bye
+- bye bye see you
+- bye bye see you soon
+- bye bye take care
+- I said bye
+- never mind bye
+- now bye
+- that's all goodbye
+- that's it goodbye
+- leave me alone
+- go to bed
+- goodbye for now
+- talk to you later
+- you can go now
+- get lost
+- goodbye see you later
+- alright bye
+- see ya
+- thanks bye bye
+- okay bye
+- okay thank you bye
+- see you tomorrow
+- ok bye
+- bye
+- goodbye
+- see you around
+- bye bye
+- see ya
+- that's it for now. Bye
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+- ciao
+- byebye
+
+## intent:greet.hello
+- long time no see
+- hello
+- hi
+- howdy
+- hey there
+- hey
+- greetings
+- I greet you
+- hi there
+- hello there
+- lovely day isn't it
+- hello again
+- just going to say hi
+- hi there
+- a good day
+- afternoon
+- Hello Bot
+- hello Bot
+- hey Bot
+- Heeeya
+- heeya
+- Heya!
+- hey bot
+- hello englishbot
+- hello EnglishBot
+- Hey Englishbot
+- hello hi
+- good morning
+- good evening
+- heya
+- hey
+- hi
+- Hello
+- hey
+- hey man
+- hey there
+- hell
+- Hell
+- hey buddy
+- oka
+- yo man
+- hola
+- hey
+- good morning
+- good evening
+- hey there
+- howdy
+- heey
+- Hi
+- helo
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- he
+- huhu
+- Hallo
+- Hola
+- bonjour
+- bonsoir
+- hello?
+- hello, someone there?
+- Heeeey
+- Heeeeello
+- heeeeey
+- heeey
+- Hello!
+- HEy
+- Heyhey!
+- Hey
+- Heeey
+- heey
+
+## intent:greet.how_are_you
+- how is your morning so far
+- how are you getting on
+- how's your day going
+- how are you?
+- how are you
+- How are you
+- is everything all right
+- how are you doing?
+- how are the things going
+- are you alright
+- are you okay?
+- how are you feeling
+- how are you going?
+- is everything okay
+- how are you today?
+- how do you do?
+- how do you feel?
+- how have you been?
+- how is it going?
+- how is your day
+- how is your day going
+- how is your evening
+- how was your day
+- are you having a good day
+- hope your day is going well
+- hope you re having a pleasant evening
+- how's life?
+- how is your life
+- how has your day been
+- how is your morning going
+- how has your day been going
+- how is your day being
+- how is your day going on
+- how your day is going
+- what was your day like
+- what about your day
+- how's your day
+- how are you doing this morning
+- how do you do?
+- how are you
+- how are you
+- how's it going?
+- hows it goin?
+- How are you doing?
+- How are you?
+- How's it going?
+
+## intent:nice_to_meet_you
+- it's nice to meet you
+- Nice to meet you!
+- Nice meeting you EnglishBot!
+- nice to meet you englishbot
+- nice to meet you
+- i am happy to meet you
+- happy to meet you
+- nice to meet you
+- nice meeting you
+- So nice meeting you
+- it is so nice to meet you
+- it's so nice meeting you
+- glad to meet you
+- nice meeting you
+- nice to meet you too
+- pleased to meet you
+- pleasure to meet you
+- pleasure to meet you too
+- happy to meet you
+- it was nice meeting you
+- how wonderful to meet you
+- it's lovely meeting you

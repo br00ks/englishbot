@@ -1,0 +1,625 @@
+[
+    {
+      "POS": "Noun",
+      "words": ["gpa", "grade point average"],
+      "questions": [],
+      "definition": "a numerical value given to letter grades used to rate academic performance",
+      "example_sentences": ["Applicants need at least a 3.1 GPA.", "He graduated with a GPA of 3.8."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["elective"],
+      "questions": [],
+      "definition": "a course that is not specific for your program but part of the degree requirement",
+      "example_sentences": ["Maria is taking French as an elective next semester."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["compulsory"],
+      "questions": [],
+      "definition": "a course within your program that you must pass in order to meet the regulations to be eligible to graduate",
+      "example_sentences": ["Students can find out what courses are compulsory by viewing the study plan for their choice of study."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["seminar"],
+      "questions": [],
+      "definition": "a small class at a university for discussion and research. Usually these courses deal with advanced topics and a student registered in an Honours Program is required to take some seminar classes.",
+      "example_sentences": ["Lucy attended the seminar for two months."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["syllabus", "study plan"],
+      "questions": [],
+      "definition": "a plan showing the subjects or books to be studied in a particular course",
+      "example_sentences": ["The new syllabus allows students greater freedom of choice."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["course"],
+      "questions": [],
+      "definition": "a regularly scheduled class session",
+      "example_sentences": ["Ben is taking a chemistry course this semester."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["credits"],
+      "questions": [],
+      "definition": "points that are attached to each course you study",
+      "example_sentences": ["I have to take thirty more credits toward my master’s degree."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["credit hour"],
+      "questions": [],
+      "definition": "the number that represents one hour of class per week for one term",
+      "example_sentences": ["The course is three credit hours."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["module"],
+      "questions": [],
+      "definition": "a part of a class that focuses on a specific task or learning goal",
+      "example_sentences": ["The course modules of study on political economy subjects are on in the evenings."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["assignment"],
+      "questions": [],
+      "definition": "work that you have to do as part of the requirements for a class",
+      "example_sentences": ["The students were given an assignment."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["final exam", "final"],
+      "questions": [],
+      "definition": "the last examination of an academic course",
+      "example_sentences": ["Andy never thought that he would pass the final."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["grade"],
+      "questions": [],
+      "definition": "a standard number or letter indicating a student’s level of performance",
+      "example_sentences": ["Angela got the best grade in her exam."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["schedule"],
+      "questions": [],
+      "definition": "a list of courses with dates, times and locations",
+      "example_sentences": ["My schedule this semester doesn’t include evening classes."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["prerequisite"],
+      "questions": [],
+      "definition": "a specific course or subject that you must complete before you can enroll in a course that follows",
+      "example_sentences": ["He didn’t have the prerequisite, so he couldn’t enroll in the course."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["workshop"],
+      "questions": [],
+      "definition": "a group learning activity where students gain a special skill or work toward a specific goal",
+      "example_sentences": ["They had a workshop on how to overcome panic attacks."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["tutorial"],
+      "questions": [],
+      "definition": "a single teaching session, either in a class or in a 1:1 meeting with an instructor",
+      "example_sentences": ["Some lectures and tutorials at Auckland University were cancelled this week when about half of the academic staff went on strike."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["distance learning"],
+      "questions": [],
+      "definition": "courses organized so that students can complete the requirements by computer and without going to campus much",
+      "example_sentences": ["They were offered Saturday courses, combined with distance learning materials, to upgrade their skills."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["lecture"],
+      "questions": [],
+      "definition": "a presentation for a class delivered by a professor",
+      "example_sentences": ["In his lecture Prof. Bloomington was talking about the impacts of climate change."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["midterm"],
+      "questions": [],
+      "definition": "an exam in a subject that is given in the middle of the term",
+      "example_sentences": ["It's a busy time right now and people have midterms and other commitments."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["objective test"],
+      "questions": [],
+      "definition": "a test with one possible correct answer",
+      "example_sentences": ["I hope it is an objective test."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["open-book test", "open book test", "open-book exam", "open book exam"],
+      "questions": [],
+      "definition": "a test during which students can consult their books and notes",
+      "example_sentences": ["Is it going to be an open-book exam?"]
+    },
+    {
+      "POS": "Noun",
+      "words": ["bachelor’s degree"],
+      "questions": [],
+      "definition": "a degree on successfully completed undergraduate studies",
+      "example_sentences": ["Anne is preparing to start her bachelor's degree at the university."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["master’s degree"],
+      "questions": [],
+      "definition": "an academic degree higher than a bachelor's degree",
+      "example_sentences": ["After graduating from Oxford University Chris received his master’s degree in chemical engineering at the University of Sydney in Australia."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["phd"],
+      "questions": [],
+      "definition": "a doctorate usually based on at least 3 years graduate study",
+      "example_sentences": ["She's got a PhD in Biochemistry."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["degree"],
+      "questions": [],
+      "definition": "an academic title awarded to a student who has completed a course of study",
+      "example_sentences": ["She had an undergraduate degree in psychology."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["diploma"],
+      "questions": [],
+      "definition": "the certificate of completion for a degree",
+      "example_sentences": ["Anyone with a high school diploma can enroll in the course."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["campus"],
+      "questions": [],
+      "definition": "a field on which the buildings of a university are situated",
+      "example_sentences": ["Princeton's campus is located on 500 acres in the heart of New Jersey."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["dorm", "dormitory", "dorms", "student residence"],
+      "questions": ["What is the name for a college building containing living quarters for students?"],
+      "definition": "a college building containing living quarters for students",
+      "example_sentences": ["The rooms in the student dorms and the single occupancy apartments are intended for only one person and are furnished with only a single, twin-sized bed."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["dining hall", "canteen","cafeteria"],
+      "questions": ["Do you know where you can go to get something to eat at university?"],
+      "definition": "a restaurant that sells food and personal items to personnel at an institution or school",
+      "example_sentences": ["Dining Hall will be open throughout the Thanksgiving break.", "The canteen offers a wide range of freshly cooked dishes."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["international office", "international student support"],
+      "questions": ["Where at university can you get help if you want to go abroad e.g. for an exchange year?"],
+      "definition": "an office where either students can get an advice if they want to go abroad or international students find help for questions regarding application and general information about the university",
+      "example_sentences": ["The International Office oversees and manages the international affairs of the University of Iceland."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["student administration", "student advisory service", "course guidance", "student advisory center", "student advisory centre", "student administration center", "student administration centre"],
+      "questions": ["Where can you find help when it comes to application, admission or enrollment?"],
+      "definition": "the Student Administration centre is responsible for the efficient administration of all students' personal, academic and financial records",
+      "example_sentences": ["The Student Administration Centre is responsible for the efficient administration of all students' personal, academic and financial records."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["accommodation services", "housing services", "housing office"],
+      "questions": ["Where can you find help when you need to find a flat or a room in the dorms?"],
+      "definition": "a place where students find help with their search for a home",
+      "example_sentences": ["At accommodation services they have over one hundred years’ experience of assisting members of the University to find accommodation."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["careers service", "career service"],
+      "questions": ["Where at university can you go need help finding a job?"],
+      "definition": "a place where students find advice or example with career planning, CV and cover letters assistance or interview preparation",
+      "example_sentences": ["Ms. Palmer works at Careers Service. She absolutely loves her job."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["gym", "fitness club", "sports center", "sports centre"],
+      "questions": ["What is the name of the place where students go to exercise?"],
+      "definition": "the place where students go to exercise",
+      "example_sentences": ["The bright, vibrant gym offers up over 100 pieces of cardio and a superb weights section."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["lecture hall"],
+      "questions": [],
+      "definition": "a large room where many people can sit and listen to a teacher lecture",
+      "example_sentences": ["When I was entering the crowded lecture hall, the lecture had already started."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["lab", "laboratory"],
+      "questions": [],
+      "definition": "a building or a room where scientific research happens",
+      "example_sentences": ["Courses can have a combination of lectures, labs and tutorials as part of their requirements."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["library"],
+      "questions": ["Do you know where you can borrow books at a university?"],
+      "definition": "building that holds books and study areas",
+      "example_sentences": ["All registered staff and students of the University of Edinburgh are automatically entitled to free borrowing from the University's libraries."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["student center", "student centre"],
+      "questions": ["What is the name of a building or group of buildings with services and facilities for students?"],
+      "definition": "a building or group of buildings with services and facilities for students",
+      "example_sentences": ["The student center houses dining facilities, as well as the bookstore, an art gallery and club offices.", "A lot of activities are held in the student center."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["institute"],
+      "questions": [],
+      "definition": "an entire university, whole university system or comprehensive research and learning programme",
+      "example_sentences": ["The research institute is based in Oxford."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["it service", "it services", "it support center", "it support centre"],
+      "questions": ["Where can you get help if you don’t know how to access your email or the wifi at university?"],
+      "definition": "a place where users of computers and computer programs can get support",
+      "example_sentences": ["If you're looking for help, advice or support with any aspect of IT you'll find help at IT Services."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["carrel"],
+      "questions": [],
+      "definition": "a private study space in the stacks of the library",
+      "example_sentences": ["He then returned to his carrel for his own research.", "The central area of the Library offers facilities for private study.", "Around the perimeter several carrels provide even greater privacy."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["health centre"],
+      "questions": ["Where can you go in order to find basic health care for students? Hint: not all universities have one at campus."],
+      "definition": "a clinic on campus which provides basic health care for students",
+      "example_sentences": ["When Laura hurt her ankle, she went to health center straight away."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["student union"],
+      "questions": [],
+      "definition": "a building on campus where students can relax and socialize",
+      "example_sentences": ["After class we walked to the student union building and shared a chocolate milkshake."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["faculty"],
+      "questions": ["What is the general term for a collective term for the academic stuff of a university or a branch of teaching or learning (such as law, medicine, or liberal arts) in an educational institution?"],
+      "definition": "a collective term for the academic stuff of a university or a branch of teaching or learning (such as law, medicine, or liberal arts) in an educational institution",
+      "example_sentences": ["She is the new dean of the Faculty of Social Sciences."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["department"],
+      "questions": ["What is the general term for a division of a college or university devoted to a particular academic discipline?"],
+      "definition": "a division of a college or university devoted to a particular academic discipline",
+      "example_sentences": ["He was previously a lecturer in the physics department of Queen's University."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["college"],
+      "questions": [],
+      "definition": "an undergraduate division of a university or a school within a university which grants a bachelor’s degree",
+      "example_sentences": ["In the US college and university are loosely interchangeable."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["university"],
+      "questions": [],
+      "definition": "an institution of higher learning providing facilities for teaching and research and authorized to grant academic degrees",
+      "example_sentences": ["I applied to several universities, but I didn’t get accepted."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["facility"],
+      "questions": [],
+      "definition": "a building, equipment, or service provided for a particular purpose",
+      "example_sentences": ["Have you seen the sports facilities?"]
+    },
+    {
+      "POS": "Noun",
+      "words": ["office hours"],
+      "questions": [],
+      "definition": "a time slot when a faculty member is available to see students",
+      "example_sentences": ["Professor Lee's office hours are from 2 to 4 on Mondays and Thursdays."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["professor"],
+      "questions": [],
+      "definition": "a college or university teacher of the highest academic rank",
+      "example_sentences": ["Two of his brothers have become professors."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["alumni"],
+      "questions": [],
+      "definition": "men and women who have completed their studies, esp. at a college or university",
+      "example_sentences": ["The college appealed to its alumni for funds."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["faculty advisor"],
+      "questions": [],
+      "definition": "a member of the faculty who gives advice to students",
+      "example_sentences": ["To serve you best, your faculty advisor needs the most up-to-date information about your academic history."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["teaching assistant"],
+      "questions": [],
+      "definition": "a graduate student who assists the professor by helping in a laboratory, grading papers, leading discussion groups, tutoring or lecturing",
+      "example_sentences": ["I had been a teaching assistant for three years."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["counselor", "counsellor"],
+      "questions": [],
+      "definition": "a professional on a university campus who provides students with academic advice, professional advice and life advice",
+      "example_sentences": ["I went to a counselor for guidance on my career."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["tutor"],
+      "questions": [],
+      "definition": "a private instructor",
+      "example_sentences": ["I am meeting my tutor at the library this afternoon."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["academic advisor"],
+      "questions": [],
+      "definition": "a person who helps students make decisions about their academic programs",
+      "example_sentences": ["Your academic advisor helps you with course selection, degree planning & registration."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["dean"],
+      "questions": [],
+      "definition": "the head of a division, faculty, college, or school of a university",
+      "example_sentences": ["Mr. Baker is the new dean of the Faculty of Law."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["freshman"],
+      "questions": [],
+      "definition": "a first year college student in the US",
+      "example_sentences": ["Fran just finished her freshman year in college."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["graduate student"],
+      "questions": [],
+      "definition": "a student who already holds a bachelor’s degree and is pursuing a master’s or doctorate",
+      "example_sentences": ["Only graduate students are allowed to take this class."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["head resident", "resident head"],
+      "questions": [],
+      "definition": "the dormitory advisor, who is usually the first point of contact for students with problems or queries regarding dorm life",
+      "example_sentences": ["Head Residents work a maximum average of twenty hours per week."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["instructor"],
+      "questions": [],
+      "definition": "a college or university teacher who ranks below an assistant professor",
+      "example_sentences": ["In 1906 Delaware College had 20 instructors and 130 students."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["lecturer"],
+      "questions": [],
+      "definition": "a college or university teacher, usually without a rank",
+      "example_sentences": ["The lecturer illustrated his point with a diagram on the blackboard."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["non-resident"],
+      "questions": [],
+      "definition": "a student who does not meet the domicile requirements of a state. Usually in the USA students are classified as such",
+      "example_sentences": ["This tuition structure applies to all non-resident students who attend the University of Memphis."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["sophomore"],
+      "questions": [],
+      "definition": "a second year college student in the US",
+      "example_sentences": ["Brad dropped out of college his sophomore year."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["fellow student"],
+      "questions": [],
+      "definition": "a student in the same school, university, college, etc as you",
+      "example_sentences": ["I was doing the assignment with some fellow students."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["financial aid"],
+      "questions": [],
+      "definition": "official help given to a person, organization, or country in the form of e.g. money, loans or reduced taxes",
+      "example_sentences": ["Students may qualify for financial aid."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["matriculation"],
+      "questions": [],
+      "definition": "the process of formally becoming a student at a university or college",
+      "example_sentences": ["Matriculation is increasing in many universities."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["undergraduate"],
+      "questions": [],
+      "definition": "a student at a university or college who is studying for his or her first degree",
+      "example_sentences": ["Laura has an undergraduate degree in psychology."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["postgraduate"],
+      "questions": [],
+      "definition": "a student with a first degree from a university who is studying or doing research at a more advanced level",
+      "example_sentences": ["She's doing a postgraduate course in women's studies."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["academic year"],
+      "questions": [],
+      "definition": "the period of formal instruction at a college or university",
+      "example_sentences": ["The academic year runs from October to June."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["admission"],
+      "questions": [],
+      "definition": "the act or process of accepting someone as a student at a school",
+      "example_sentences": ["Students apply for admission to a particular college."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["bursary"],
+      "questions": [],
+      "definition": "money awarded to a student based on financial need and reasonable academic standing (mainly British English)",
+      "example_sentences": ["With the aid of a bursary Suzanne managed to go to the university of Aberdeen."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["exchange program"],
+      "questions": [],
+      "definition": "an opportunity for students to complete some of their studies at another institution, often in another country, but still as a registered student at your home college or institution",
+      "example_sentences": ["Students may have to demonstrate certain minimum levels of English language proficiency to participate in an exchange program at the University of Alberta."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["major"],
+      "questions": [],
+      "definition": "an area of specialization within a degree program of a student",
+      "example_sentences": ["History was my major at college."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["plagiarism"],
+      "questions": ["What’s the word for copying or reproducing other people's ideas or material and try to pass it off as your own as new and original work without crediting this source?"],
+      "definition": "copying or reproducing other people's ideas or material and try to pass it off as your own as new and original work without crediting this source",
+      "example_sentences": ["Make sure to reference where you found any information to avoid plagiarism."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["scholarship"],
+      "questions": [],
+      "definition": "a student award based on academic merit or excellence, financial help awarded to a student",
+      "example_sentences": ["The graduating senior is hoping her school will award her a scholarship so that she can go to college."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["commencement"],
+      "questions": [],
+      "definition": "the graduation ceremony at which students receive their degrees",
+      "example_sentences": ["The graduating senior class of Kingston University London proudly announces commencement ceremonies on 2nd October 2019."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["thesis"],
+      "questions": [],
+      "definition": "a written research on a specific topic  prepared by a candidate for a bachelor's or master's degree",
+      "example_sentences": ["I am currently writing my thesis."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["transcript"],
+      "questions": [],
+      "definition": "a printed and certified copy of a student's educational records",
+      "example_sentences": ["I went to get an extra copy of my transcript."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["tuition", "tuition fee"],
+      "questions": [],
+      "definition": "money that is charged by an institution for instruction and training",
+      "example_sentences": ["Tuition at private colleges is more so I will need a scholarship."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["semester"],
+      "questions": [],
+      "definition": "a period of study, usually 15-18 weeks long",
+      "example_sentences": ["Lisa is going to sign up for a French class next semester."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["fine"],
+      "questions": [],
+      "definition": "a sum of money you pay for violating a rule",
+      "example_sentences": ["Libraries usually charge a fine for keeping a book after the due date."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["grant"],
+      "questions": [],
+      "definition": "a fund for research or study",
+      "example_sentences": ["You may get a grant to cover some of your travel expenses when you study abroad."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["internship"],
+      "questions": [],
+      "definition": "a training opportunity that a recent graduate student takes in order to get experience. This is usually done under an arrangement by which a student works in a company/organization for a limited period of time",
+      "example_sentences": ["All technology students were required to gain practical experience through an internship at a local company."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["minor"],
+      "questions": [],
+      "definition": "a secondary area of study",
+      "example_sentences": ["She majored in chemistry with a minor in biology."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["orientation week"],
+      "questions": [],
+      "definition": "a program for new students during which they receive information about the school",
+      "example_sentences": ["During orientation week you will receive all important information you need for a successful start at university."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["program of study"],
+      "questions": [],
+      "definition": "a list of courses that a student must take to fulfill the requirements for graduation",
+      "example_sentences": ["The advisor told me that this program of study is a four-year plan."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["student i.d. number", "student id number"],
+      "questions": [],
+      "definition": "a number used for identification at a college or university",
+      "example_sentences": ["All students at Indiana University are assigned a 10-digit student ID number."]
+    },
+    {
+      "POS": "Noun",
+      "words": ["term"],
+      "questions": [],
+      "definition": "a time period when colleges are in session? The time may be of varying length e.g. semester or trimester",
+      "example_sentences": ["Spring term starts on 7th of January at University of Exeter."]
+    }
+  ]

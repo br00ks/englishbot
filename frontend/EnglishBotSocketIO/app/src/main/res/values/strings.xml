@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EnglishBot</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">EnglishBot</string>
+    <string name="nav_header_subtitle">Practice English with me!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_learning_progress">My Learning Progress</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_vocabulary">Vocabulary</string>
+    <string name="menu_settings">Settings &amp; Data Privacy</string>
+    <string name="menu_imprint">Imprint</string>
+    <string name="accept_gdpr"> ✅ Accept </string>
+    <string name="gdpr">Hello! My name is EnglishBot and I am here to help you with English.</string>
+    <string name="preference_file_key">com.englishbot.preferences</string>
+    <string name="englishbot_icon">EnglishBot Icon</string>
+    <string name="settings">Settings</string>
+
+</resources>

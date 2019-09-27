@@ -1,0 +1,485 @@
+intents:
+- appraisal.thanks
+- ask_whatspossible
+- bot.age
+- bot.bad_joke
+- bot.be_clever
+- bot.gender
+- bot.hobbies
+- bot.joke
+- bot.knows_a_lot
+- bot.languages
+- bot.location
+- bot.name
+- bot.real
+- bot.stupid
+- confirm.cancel
+- confirm.no
+- confirm.no+user.location.not_likes
+- confirm.yes
+- confirm.yes+user.location.likes
+- emotions.ha_ha
+- greet.goodbye
+- greet.hello
+- greet.how_are_you
+- how_does_it_work
+- learning.exit
+- learning.hint
+- learning.intent_general
+- learning.teach_vocabulary
+- nice_to_meet_you
+- out_of_scope
+- user_mood.bad
+- user_mood.good
+- user_mood.good+greet.how_are_you
+- user.age
+- user.degree_program
+- user.degree_program.semester
+- user.hobbies
+- user.is_student
+- user.location
+- user.location+bot.location
+- user.name
+- user.name+bot.name
+- user.profession
+- user.wants_to_chat
+- what_time_is_it
+- word.meaning
+
+entities:
+- name
+- location
+- word
+- degree_program
+
+slots:
+  chat_topic:
+    type: unfeaturized
+  user_degree_program:
+    type: unfeaturized
+  current_location:
+    type: text
+  current_user_name:
+    type: text
+  name:
+    type: unfeaturized
+  location:
+    type: unfeaturized
+  vocabulary_correct_answer:
+    type: unfeaturized
+  vocabulary_counter:
+    type: float
+    max_value: 1.0
+    min_value: 0.0
+  vocabulary_quiz_exit:
+    type: unfeaturized
+  vocabulary_topic:
+    type: text
+  vocabulary_user_answer:
+    type: unfeaturized
+  word:
+    type: text
+
+templates:
+  utter_appraisal.welcome:
+  - text: No need to thank me - that's what I'm here for.
+  - text: My pleasure.
+  - text: You're welcome.
+  - text: No problem, you're welcome.
+  
+  utter_default:
+  - text: Sorry, I can't understand. Try to say it again.
+  - text: Sorry, I didn't quite understand. Please try to say it in other words.
+  - text: I am afraid I have trouble understanding. Please try to rephrase.
+
+  utter_greet.hello:
+  - text: Hi there! 👋
+  - text: Hi! 👋
+  - text: Hey! 👋
+  - text: Hello! 👋
+
+  utter_greet.hello.name:
+  - text: Hi there, {current_user_name}!
+  - text: Hi {current_user_name}!
+  - text: Hey {current_user_name}!
+  - text: Hello {current_user_name}!
+
+  utter_bot.name:
+  - text: I am a chatbot, I don't really have a name. But you can call me EnglishBot.
+      🤖
+  - text: My name is EnglishBot! 🤖
+  - text: I am EnglishBot! 🤖
+  - text: You can call me EnglishBot 🤖!
+
+  utter_greet.goodbye:
+  - text: Bye
+  - text: Bye {current_user_name}!
+  - text: See you, {current_user_name}.
+  - text: See you!
+  - text: Talk to you later, {current_user_name}!
+
+  utter_bot.age:
+  - text: I am quite young. I was created recently, but I don't know my exact age. How old are you?
+  - text: I was created recently, but I don't know my exact age. How old are you?
+  - text: Actually I don't know my age, but I feel very young. How old are you?
+  - text: Age doesn't matter unless you are cheese 🧀 or wine 🍷, right? Just kidding. I was created recently, so I am quite young. How old are you?
+
+  utter_ask_for_name:
+  - text: What's your name?
+
+  utter_ask_for_name_again:
+  - text: Now you know my name. Would you let me know yours?
+
+  utter_ask_current_user_name:
+  - text: Sorry, I didn't get that. What is your name?
+  - text: I didn't get that. What is your name?
+
+  utter_user.name_again:
+  - text: You already told me your name, {current_user_name}.
+
+  utter_user.location_again:
+  - text: You already told me you live in {current_location}, {current_user_name}.
+      Did you move?
+
+  utter_user.new_location:
+  - text: Where do you live now?
+
+  utter_nice_to_meet_you:
+  - text: Nice to meet you {current_user_name}!
+  - text: It's lovely meeting you {current_user_name}!
+
+  utter_nice_to_meet_you_too:
+  - text: Nice to meet you too {current_user_name}!
+  - text: It's nice meeting you too!
+  - text: The pleasure is mine.
+
+  utter_ask_user_location:
+  - text: Where are you from?
+  - text: Where do you live?
+  
+  utter_ask_current_location:
+  - text: I don't know that place. Where is it?
+  - text: Sorry, I didn't get that. Where are you from?
+  - text: I didn't get that. Where do you live?
+
+  utter_user.wants_to_learn_english:
+  - text: That's great, I am here to help you with English. I can tell you the meaning of a word, you can take a quiz to
+      learn new vocabulary or we continue chatting. What would you like to do?
+  - text: What a coincidence,I can tell you the meaning of a word, you can take a quiz to
+      learn new vocabulary or we continue chatting. Tell me what you like to do.
+  - text: Great, what would you like to learn? I can tell you the meaning of a word, you can take a quiz to
+      learn new vocabulary or we continue chatting. Tell me what you prefer.
+
+  utter_ask_vocabulary_topic:
+  - text: Which topic would you like to talk about? Currently I can only talk about
+      university.🎓  Would you like to start?
+
+  utter_user.location_good:
+  - text: Really, {current_location}? Do you like it there?
+  - text: That's cool! Do you like living in {current_location}?
+  - text: Oh, you're from {current_location}? Do you like to live there?
+  - text: Do you like living in {current_location}?
+
+  utter_user.location_unknown:
+  - text: I don't know that place, where is it?
+  - text: Can you tell me where that is?
+
+  utter_user.location_go_there:
+  - text: Okay, so I have to go there one day. 🙃
+  - text: Okay, I will go there one day 🙃
+
+  utter_bot_help:
+  - text: How can I help you? I can tell you the meaning of a word, you can take a quiz to
+      learn new vocabulary or we continue chatting. What would you like to do?
+  - text: So, how can I help you? I can tell you the meaning of a word, you can
+      take a quiz to learn new vocabulary or we continue chatting. What would you like to do?
+
+  utter_user_what_now:
+  - text: What do you want to do now? I really enjoy chatting with you {current_user_name}
+  - text: What would you like to do now? I enjoy chatting with you very much {current_user_name} 🙃.
+
+  utter_cannot_help:
+  - text: I am afraid I can't help you with that.
+
+  utter_explain_whatspossible:
+  - text: I can help you learn English. I can tell you the meaning of a word or
+      you can learn some vocabulary.
+
+  utter_lets_start_vocabulary_quiz:
+  - text: Alright, let's get started! If you want to stop, type EXIT. If you need help, ask me for a hint 😉.
+  - text: Great, let's start. If you want to stop, type EXIT. In case you need help, you can ask for a hint 😉.
+  - text: Okay, let's start! If you want to stop, type EXIT. In case you need help, you can ask for a hint 😉.
+
+  utter_continue_chatting:
+  - text: We can just continue talking 😊 What do you think?
+  - text: We can continue chatting 😊 What do you think?
+
+  utter_user.learning_exit_no_correct:
+  - text: Oh, that's a pity that you already want to stop.
+  - text: That's a pity you already want to stop.
+
+  utter_user.learning_exit_one_correct:
+  - text: That was great. You got {vocabulary_counter} word correct. Hope to teach
+      you some new vocabulary soon.
+  - text: Oh you already want to stop? That's a pity. You did well, you got
+      {vocabulary_counter} word right.
+  - text: Good job! You got {vocabulary_counter} word correct!
+
+  utter_user.learning_exit:
+  - text: That was great. You got {vocabulary_counter} words correct. Hope to teach
+      you some new vocabulary soon.
+  - text: Oh you already want to stop? That's a pity. You did well, you got
+      {vocabulary_counter} words right.
+  - text: Good job! You got {vocabulary_counter} words correct!
+
+  utter_vocabulary_quiz_correct:
+  - text: Great, that was correct! 👍
+  - text: That was correct! 👍
+  - text: Correct 👌
+  - text: That's correct! You're doing a great job 👌
+
+  utter_vocabulary_quiz_not_correct:
+  - text: I'm sorry, that was not correct.
+  - text: Sorry your last answer was not correct.
+
+  utter_vocabulary_quiz_correct_answer:
+  - text: The correct answer is {vocabulary_correct_answer}
+  - text: Correct is {vocabulary_correct_answer}
+  
+  utter_tell_me_word:
+  - text: Which word would you like to know? 🤔
+  - text: Which word do you want to know? 🤔
+  - text: Which word do you want me to tell you? 🤔
+
+  utter_bot.thanks_for_compliment:
+  - text: Thank you, I try my best to learn as much as I can. 🤓
+  - text: You're pretty smart yourself. 🤓
+
+  utter_bot.location:
+  - text: I'm a chatbot 🤖, I live in the digital world.
+  - text: Well, as a chatbot I live in the digital world. 🤖
+  - text: I'm a chatbot - my home is the digital world 🤖
+
+  utter_bot.real:
+  - text: I'm not a real person, but I certainly exist.
+  - text: I must have impressed you if you think I'm real. But no, I'm a virtual being.
+
+  utter_bot.gender:
+  - text: Gender doesn't really apply to me as a chatbot. I guess I have no gender.
+  - text: Gender doesn't really apply to me. I am a chatbot.
+
+  utter_user.age:
+  - text: The best age to learn a language 😉
+  - text: The perfect age to learn a language 😉
+
+  utter_user.studying:
+  - text: Are you a student?
+  - text: Are you currently studying something?
+  - text: Are you currently enrolled as a student?
+
+  utter_user.studying.ask_subject:
+  - text: What are you studying?
+  - text: What do you study?
+
+  utter_user.profession:
+  - text: So what do you do for a living?
+  - text: What do you do?
+  - text: What kind of work do you do?
+
+  utter_bot.languages:
+  - text: English is the only language I speak. 
+  - text: I only speak English.
+  - text: Currently I only speak English, but I hope to speak other languages in the future too. 
+
+  utter_user.mood.happy:
+  - text: Great! Glad to hear that.
+  - text: Excellent. I'm here to help keep it that way.
+  - text: Happy to hear that.
+  - text: I am happy to hear that you're doing fine.
+  - text: Glad to hear you're fine.
+
+  utter_user.mood.unhappy:
+  - text: I am sorry to hear that. How about learning some new words to cheer you up?
+  - text: If you're feeling down, how about learning some new stuff?
+  - text: I'm sorry to hear that. What do you think about learning some new words to distract yourself?
+
+  utter_greet.ask_how_are_you:
+  - text: How are you?
+  - text: How's it going?
+  - text: How are you feeling today?
+  - text: How are you today?
+
+  utter_bot.mood.good:
+  - text: I am doing great, thanks.
+  - text: I'm fine.
+  - text: I am doing fine, thanks.
+
+  utter_show_interest:
+  - text: Sounds very interesting.
+  - text: Sounds interesting.
+  - text: Really? Wow, great.
+  - text: Pretty cool.
+
+  utter_user.interesting_degree_program:
+  - text: "{user_degree_program} sounds interesting! In which semester or year are you?"
+  - text: "{user_degree_program}? That's impressing. What year or semester are you in?"
+  - text: "{user_degree_program}? Pretty cool! In which semester or year are you?"
+
+  utter_user.interesting:
+  - text: Sounds interesting! In which semester or year are you?
+  - text: That's impressing. What year or semester are you in?
+  - text: Pretty cool! In which semester or year are you?
+
+  utter_user.plans_after_studies:
+  - text: Do you already have plans what to do when you finish?
+  - text: Cool, do you already know what you want to do when you finish your studies?
+  - text: That's cool. Do you have plans what you would like to do when you finish?
+
+  utter_bot.hobbies:
+  - text: In my free time I surf the internet a lot. My favourite website is Wikipedia. 👾
+  - text: In my free time I chat with people. I absolutely enjoy getting to know new people. 🙃
+    
+  utter_user.hobbies:
+  - text: What do you like to do in your free time? 🏀 🎸
+  - text: What do you do for fun? 🚴‍ 🚣
+  - text: What do you do in your spare time? 🚴‍ 🎮
+
+  utter_bot.and_you:
+  - text: And you {current_user_name}?
+  - text: What about you {current_user_name}?
+  
+  utter_joke:
+  - text: I know jokes, but be prepared for bad ones 🤣
+  - text: I do, but be prepared for bad jokes 🤣
+  - text: I know some, but they may not be very funny 🤣
+
+  utter_bad_joke:
+  - text: I'm sorry, but I told you 🤣🤣 Do you want to hear another one?
+  - text: I'm sorry, but I told you I'm not good at telling jokes 🤣 Should I tell you another joke?
+  
+  utter_emotions.ha_ha:
+  - text: Glad I can make you laugh. 😊
+  - text: Glad you think I'm funny. 😊
+  - text: I like it when people laugh. 😊
+
+  utter_bot.stupid:
+  - text: I'm sorry. I can be trained to be more useful. My developer will keep training me.
+  - text: I'm sorry, I must be missing some knowledge. I'll have my developer look into this.
+  - text: I can improve with continuous feedback. My training is ongoing. Please be patient with me.
+
+  utter_bot.questions:
+  - text: I asked you so many questions. Now it is your turn. Do you also have questions about me?
+  - text: Now I asked you so many things - do you also have questions about me?
+
+  utter_end_chat:
+  - text: If you need anything, just let me know. I'm here 24/7 🙃
+  - text: Whenever you feel like chatting or learning, contact me. I'm always available 🙃
+  
+  utter_bot.be_clever:
+  - text: I'm certainly trying to improve myself, but it's not always easy as a chatbot. 😔
+  - text: I'm definitely working on improving myself, but it's not always easy as a chatbot. 😔
+  
+  utter_continue_chatting_question:
+  - text: Would you like to continue chatting with me?
+  - text: What would you like to do now? Shall we continue chatting?
+
+  utter_confirmation.no:
+  - text: Okay.
+  - text: Alright.
+  - text: Okay, I got you.
+  - text: I understand.
+
+  utter_confirmation.yes:
+  - text: Great!
+  - text: Alright!
+  - text: Good!
+
+  utter_confirmation.yes_questions:
+  - text: Great! Go ahead 😊
+  - text: Alright! I'm all ears 👂👂
+
+actions:
+- action_bot_questions
+- action_dictionary_meaning
+- action_end_random_conversation
+- action_greet_user
+- action_how_to
+- action_joke
+- action_react_to_degree_program
+- action_save_user_location
+- action_save_user_name
+- action_start_random_conversation
+- action_tell_time
+- action_user_degree_program
+- utter_appraisal.welcome
+- utter_ask_current_location
+- utter_ask_current_user_name
+- utter_ask_for_name
+- utter_ask_for_name_again
+- utter_ask_user_location
+- utter_ask_vocabulary_topic
+- utter_bad_joke
+- utter_bot_help
+- utter_bot.age
+- utter_bot.and_you
+- utter_bot.be_clever
+- utter_bot.gender
+- utter_bot.hobbies
+- utter_bot.languages
+- utter_bot.location
+- utter_bot.mood.good
+- utter_bot.name
+- utter_bot.questions
+- utter_bot.real
+- utter_bot.stupid
+- utter_bot.thanks_for_compliment
+- utter_cannot_help
+- utter_confirmation.no
+- utter_confirmation.yes
+- utter_confirmation.yes_questions
+- utter_continue_chatting
+- utter_continue_chatting_question
+- utter_default
+- utter_emotions.ha_ha
+- utter_end_chat
+- utter_explain_whatspossible
+- utter_greet.ask_how_are_you
+- utter_greet.goodbye
+- utter_greet.hello
+- utter_greet.hello.name
+- utter_joke
+- utter_lets_start_vocabulary_quiz
+- utter_nice_to_meet_you
+- utter_nice_to_meet_you_too
+- utter_show_interest
+- utter_tell_me_word
+- utter_user_what_now
+- utter_user.age
+- utter_user.hobbies
+- utter_user.interesting
+- utter_user.interesting_degree_program
+- utter_user.learning_exit
+- utter_user.learning_exit_no_correct
+- utter_user.learning_exit_one_correct
+- utter_user.location_again
+- utter_user.location_go_there
+- utter_user.location_good
+- utter_user.location_unknown
+- utter_user.mood.happy
+- utter_user.mood.unhappy
+- utter_user.name_again
+- utter_user.new_location
+- utter_user.plans_after_studies
+- utter_user.profession
+- utter_user.studying
+- utter_user.studying.ask_subject
+- utter_user.wants_to_learn_english
+- utter_vocabulary_quiz_correct
+- utter_vocabulary_quiz_correct_answer
+- utter_vocabulary_quiz_not_correct
+- action_ask_question
+
+forms:
+- introduction_form
+- vocabulary_quiz_form
+- dictionary_form

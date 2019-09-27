@@ -1,0 +1,208 @@
+## intent:ask_whatspossible
+- help
+- help please
+- Help!
+- i don't know what i want
+- I need some help
+- options
+- some help?
+- show me the menu
+- show me what's possible
+- what should i do
+- what shold i do next??
+- what should I do next
+- what shoulda do next
+- so what can you do
+- so what can you help me with?
+- what are you good at?
+- what can I do here
+- what can I do with this bot
+- what is this bot for
+- cool! can I do something else here?
+- help me
+- talk to me!
+- come back
+- how can you help me
+- what else can i do
+- are there any other options?
+- hm that doesnt quite help me is there anything else you can do?
+- what can i do here
+- what can i do now
+- um what now
+- so now what
+- help?
+- now what?
+- Great, is there anything else you can do, bot?
+- what can you do?
+- how can you help me?
+- can you do anything else?
+- i asked you if you can do anything else
+- anything els
+- so what next?
+- what else can I do here?
+- Can you explain me in one sentence what you are doing?
+- what are the options?
+- is there anything else you can do?
+- what else can you do?
+- what can you do?
+- what are you capable of?
+- what's your competences?
+- what can you do?
+- what else can you do?
+- where else can you help me?
+- Cool, is there something else you can do
+- cool is there anything else you can do
+
+## intent:how_does_it_work
+- how does it work?
+- how can I ask for a vocabulary?
+- how can I learn vocabulary?
+- how can I tell you to tell me a word
+- how should i ask
+- what should i type
+- what should i ask
+- how can i do it?
+- how can I do that?
+- how can i do that
+- how can i do one of the things?
+- how should I tell you what to do?
+- how should i tell you what to do
+- what should i ask you?
+- what should I do now?
+- how?
+- How?
+- how does it work
+- how should I ask?
+- what should I ask now?
+- I don't know how to ask
+- i dont know how to ask
+- i dont know
+- i don't know
+- how should i ask you 
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- what do you look like?
+- when are you hungry?
+- how do you look?
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- again?
+- hang on let me find it
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- why do you need that?
+- is that any of your business
+- thats none of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- Do I have to accept?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- how are akela's cats doing?
+- but I just told you that :(
+- But you're an english site :(
+- can you help me to build a bot
+
+## intent:what_time_is_it
+- what's the time?
+- what is the time
+- tell me the time
+- what time is it
+- can you tell me what time it is
+- can you tell me what time it is?
+- what's the time right now?
+- please tell me the time
+- the time please
+- whats the time right now
+- what's the time?
+- please what is the time
+- please whats the time?
+- I want to know the time
+- I would like to konw the time pleaes
+- please I wanna know the time
+- please tell me time
+- Is it late yet?
+- how late is it?
+- is it early?
+- how early is it?
+- how lat is it
+- i want to know how late it is
+- i want to know how early it is
+- whats the time please
+- what's the time pleas
+- what is the time please???
+- may i know the time please
+- do you know the current time?
+- do you know what time it is?
+- you know what time it is
+- do you know what time it is right now?

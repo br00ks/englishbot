@@ -1,0 +1,36 @@
+## intent:emotions.ha_ha
+- lol
+- lool
+- ha ha
+- ahahah
+- ahah lol
+- laughing out loud
+- LMAO
+- that's funny
+- ah
+- ahaha
+- ahah
+- hahahah
+- hahaha
+- haha
+- ahah
+- ahaha
+- ahahaha
+- ha
+- ha ha ha
+- ha ha ha ha
+- hah
+- haha
+- haha funny
+- haha haha haha
+- haha that's funny
+- haha very funny
+- hahaha
+- hahaha funny
+- hahaha very funny
+- heheheh
+- jajajaj
+- jaja
+- hehe
+- hehehe
+- lmao

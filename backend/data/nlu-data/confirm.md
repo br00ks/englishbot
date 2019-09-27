@@ -1,0 +1,105 @@
+## intent:confirm.cancel
+- nevermind forget about it
+- nothing just forget it
+- no just cancel
+- sorry cancel
+- disregard
+- no cancel cancel
+- forget
+- cancel everything
+- cancel that one
+- i want to cancel
+- cancel it
+- cancelled
+- cancel it now
+- don't want cancel
+- cancel soon
+- shall stand cancelled
+- noooo
+- nooo
+
+## intent:confirm.no
+- no thanks
+- not needed
+- of course not
+- never
+- not at this time
+- not exactly
+- absolutely no
+- no forget
+- do not
+- no thanks
+- no don't want
+- sorry no
+- don't want your help
+- I don't you help
+- I don't want your assistance
+- no no!
+- i do not want your help
+- i don't need your help
+- i don't want your help
+- i am not okay with your help
+- don't want
+- do not
+- I don't need anything from you
+- nope i dont need your help
+- Don't show off
+- nope
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:confirm.yes
+- yeah exactly
+- okay that's fine
+- I agree
+- that is ok
+- I guess
+- okey
+- ya
+- ok
+- OK
+- Ok
+- ok yes
+- yes it is
+- yep
+- yew
+- yeah
+- yeah fine
+- yea fine
+- Ok!
+- yes to study
+- yes for studying
+- yeaah
+- yeaaah
+- yeaaaah
+- yeaaaaah
+- yes pretty much
+- alright
+- alrighty!
+- alright!
+- yep okay
+- fine okay
+- yup
+- YEAH
+- okay buddy
+- oh okay
+- yeah sure
+- okay cool
+- yes
+- indeed
+- yes i am
+- Yes I am.
+- of course
+- that sounds good
+- correct
+- definitely
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- yes, I do.
+- Yes

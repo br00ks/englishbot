@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="4dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="60dp"
+    android:clipToPadding="false">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingVertical="12dp"
+        android:paddingHorizontal="16dp"
+        android:paddingBottom="0dp"
+        android:elevation="2dp"
+        android:background="@drawable/msg_received_dictionary">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/message_title"
+            android:paddingBottom="4dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#000"
+            android:text="MsgTitle"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/message_body"
+            android:textSize="16dp"
+            android:paddingBottom="4dp"
+            android:textColor="#000"
+            android:text="How's it going?"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/message_synonym"
+            android:textSize="13dp"
+            android:textStyle="italic"
+            android:textColor="#000"
+            android:text="Synonyms: Test"
+            />
+    </LinearLayout>
+</RelativeLayout>

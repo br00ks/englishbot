@@ -1,0 +1,1178 @@
+## intent:confirm.yes+user.location.likes
+- yes i love to live there.
+- I absolutely do
+- yes it's great there. do you know checkpoint charlie? that's where I live.
+- yeah, i love it
+- yes it is awesome
+- yes, so great there
+- yeaaah, you can do lots of stuff there.
+- yes i do, i love the beaches, the weather, the food, the sun...
+- yes it's great. you can do lots of things.
+- yes it never gets boring
+- I do, it's awesome
+- yes I absolutely love it here
+- yes It's my favourite city
+- yes it's the best place to live
+- yeah the best place to live
+- yeah its awesome to live here
+- yes it's great here
+- Yes it is so great there
+- yes, pretty much, i love it
+- I really like it, yes.
+- I really enjoy living here, so yeah
+- yeah love it
+- yeah i love it here
+- yes there's lots to do
+- yeah it's never boring, because there's so much to do
+- yes there's lots of things to do
+- i really like it, yes.
+- i love it, yes. there's lots of things to do
+- yes it's great. 
+- it's okay
+- it is okay
+- its ok
+
+## intent:confirm.no+user.location.not_likes
+- not really, it can get boring here
+- not really, i prefer other places to live
+- its okay, a bit boring, but okay
+- not much, I would rather live in the city
+- No, I want to move somewhere else
+- no i want to move to the countryside
+- not really, i think its boring 
+- not much, it's too loud and too hot
+- no i dont like it here. i should go somewhere else
+- no i don't like it there
+- No I don't like it there.
+- Not much - I wanna move soon.
+- no it's boring
+- no it sucks
+- to be honest, i don't like it
+- i don't like it. There's too many people, too much traffic. nothing to do.
+- no i prefer living somewhere else
+- no i prefer other places
+- no it's absolutely boring here. Nothing to do
+
+## intent:user.location
+- I live in [Castrop Rauxel](location:castrop rauxel)
+- I am from [Berlin](location)
+- it's in [germany](location)
+- it's in [austria](location)
+- it's in [poland](location)
+- it's in [turkey](location)
+- it's in [afghanistan](location)
+- i live in [istanbul](location)
+- I live in [Istanbul](location)
+- I live in [Athens](location)
+- I live in [The Hague](location)
+- i live in [Iraklion](location)
+- i live in [Hamburg](location)
+- i live in [Sylt](location)
+- I live in [San Francisco](location)
+- it's in [great britain](location)
+- it's in [UK](location:United Kingdom)
+- it's in [United Kingdom](location)
+- it's in [scotland](location)
+- I'm from [Vienna](location)
+- from [Amsterdam](location)
+- I'm from [New York](location)
+- I live in [Berlin](location)
+- I am from [NYC](location:New York)
+- I am from [Germany](location)
+- in [berlin](location)
+- I come from [Austria](location)
+- I'm from [Austria](location)
+- I am from [Hamburg](location)
+- I am from [Switzerland](location)
+- from [Madrid](location)
+- [Spain](location)
+- [France](location)
+- [New Zealand](location)
+- [Netherlands](location)
+- [scotland](location)
+- [afghanistan](location)
+- [poland](location)
+- [Poland](location)
+- [Auckland](location)
+- From [Paris](location)
+- Im from [Norway](location)
+- I'm from [Oslo](location)
+- I come from [Malmö](location)
+- I come from [Rome](location)
+- I come from [Lisboa](location)
+- I am from [Portugal](location)
+- I'm from the [US](location:United States)
+- Im from the [United States](location)
+- I'm from [czech republic](location)
+- I live in [London](location)
+- I live in [Ireland](location)
+- i live in [Copenhagen](location)
+- in [Finland](location)
+- in [Slovenia](location)
+- in [Croatia](location)
+- in [Zagreb](location)
+- in [Mexico City](location)
+- from [Mexico](location)
+- in [Mexico](location)
+- from [Mexico City](location)
+- from [Sao Paulo](location)
+- I am from [Brazil](location)
+- I'm from [Los Angeles](location)
+- from [Afghanistan](location)
+- from [Albania](location)
+- from [Algeria](location)
+- from [Andorra](location)
+- from [Angola](location)
+- from [Argentina](location)
+- from [Armenia](location)
+- I'm from [Antigua](location)
+- I'm from [Australia](location)
+- I'm from [Azerbaijan](location)
+- I'm from [Belgium](location)
+- I'm from [Belarus](location)
+- I'm from [Bolivia](location)
+- I'm from [Bosnia Herzegovina](location)
+- I'm from [Bulgaria](location)
+- I'm from [Greece](location)
+- I'm from [Botswana](location)
+- I'm from [Cambodia](location)
+- I'm from [Chile](location)
+- I'm from [China](location)
+- I come from [Canada](location)
+- I come from [Congo](location)
+- I come from [Costa Rica](location)
+- I come from [Colombia](location)
+- I come from [Cyprus](location)
+- I come from [Cuba](location)
+- I come from [Cyprus](location)
+- I come from [Denmark](location)
+- I come from [Ecuador](location)
+- I come from [Djibouti](location)
+- I come from [Egypt](location)
+- I come from [El Salvador](location)
+- I come from [Estonia](location)
+- I come from [Ethiopia](location)
+- I come from [Eritrea](location)
+- I come from [Equatorial Guinea](location)
+- I come from [France](location)
+- I come from [Georgia](location)
+- I come from [Hungary](location)
+- in [Honduras](location)
+- in [Iceland](location)
+- in [India](location)
+- in [Iran](location)
+- in [Indonesia](location)
+- in [Iraq](location)
+- in [Israel](location)
+- in [Italy](location)
+- from [italy](location)
+- in [Ivory Coast](location)
+- in [Jamaica](location)
+- in [Japan](location)
+- in [Jordan](location)
+- in [Korea](location)
+- in [Kosovo](location)
+- in [North Korea](location)
+- in [Kenya](location)
+- in [Luxembourg](location)
+- in [Macedonia](location)
+- in [Lithuania](location)
+- in [Libya](location)
+- in [Montenegro](location)
+- in [Morocco](location)
+- in [Namibia](location)
+- in [Netherlands](location)
+- in [Nicaragua](location)
+- in [Poland](location)
+- in [Romania](location)
+- in [Russia](location)
+- in [Saudi Arabia](location)
+- in [Serbia](location)
+- in [Slovakia](location)
+- in [Sweden](location)
+- [North Korea](location)
+- [Kenya](location)
+- [Luxembourg](location)
+- [Macedonia](location)
+- [Lithuania](location)
+- [Libya](location)
+- [Montenegro](location)
+- [Morocco](location)
+- [Namibia](location)
+- [Netherlands](location)
+- [Nicaragua](location)
+- [Poland](location)
+- [Romania](location)
+- [Russia](location)
+- [Saudi Arabia](location)
+- [Serbia](location)
+- [Slovakia](location)
+- [Sweden](location)
+- [Austria](location)
+- from [Madrid](location)
+- [spain](location)
+- [france](location)
+- [new zealand](location)
+- [auckland](location)
+- From [paris](location)
+- Im from [norway](location)
+- I'm from [oslo](location)
+- I come from [malmö](location)
+- I come from [rome](location)
+- I come from [lisboa](location)
+- I am from [portugal](location)
+- I'm from the [us](location:United States)
+- Im from the [united states](location)
+- I live in [vienna](location)
+- I live in [ireland](location)
+- i live in [london](location)
+- in [finland](location)
+- in [slovenia](location)
+- in [croatia](location)
+- i live in [brazil](location)
+- i live in [rio de janeiro](location)
+- i'm living in [münchen](location)
+- i live in [munich](location)
+- i moved to [Paris](location)
+- i moved to
+- to [Aberdeen](location)
+- to [Jamaica](location)
+- to [Vienna](location)
+- to [Berlin](location)
+- to [Potsdam](location)
+- to [Neukölln](location)
+- to [Charlottenburg](location)
+- to [Kreuzberg](location)
+- to [Wedding](location)
+- to [Mecklenburg-Vorpommern](location)
+- to [Hamburg](location)
+- to [NRW](location)
+- to [Nordrhein-Westfalen](location)
+- to [Hamburg](location)
+- to [Bonn](location)
+- close to [Augsburg](location)
+- close to [Hohenschwangau](location)
+- close to [Offenburg](location)
+- close to [Köln](location)
+- close to [Cologne](location)
+- close to [Frankfurt](location)
+- it's close to [Denmark](location)
+- it's near [Paris](location)
+- very close to [Nice](location)
+- I live very close to [Lyon](location)
+- I live near [Leipzig](location)
+- I live near [tunis](location)
+- not far from [Prague](location)
+- close to [Potsdam](location)
+- near [Berlin](location)
+- near [Herat](location)
+- Near [Kabul](location)
+- near [Würzburg](location)
+- near [Hannover](location)
+- near [Minden](location)
+- near [Buenos Aires](location)
+- near [Bald Hills](location)
+- near [Cornwall](location)
+- I live near [Las Vegas](location)
+- i live near [New York](location)
+- i live near [Salzburg](location)
+- i live near [Eisenstadt](location)
+- i live near [Villach](location)
+- i live near [Aachen](location)
+- i live near [Freiburg Im Breisgau](location)
+- i live near [Ulm](location)
+- i live near [Coburg](location)
+- i live near [Sofia](location)
+- i live in [bad kreuznach](location)
+- i live in [golling-abtenau](location)
+- i live in [bad vöslau](location)
+- i live in [tyrol](location)
+- i live in [kitzbühel](location)
+- i live in [Birmingham](location)
+- i live near [Weimar](location)
+
+## intent:user.location+bot.location
+- I'm from [Bosnia Herzegovina](location) and you?
+- I'm from [Bulgaria](location) and you
+- I'm from [Greece](location) and where are you from
+- I'm from [Botswana](location) and you? where do you live?
+- I'm from [Cambodia](location) how about you?
+- I'm from [Brighton](location) how about you?
+- I'm from [Dublin](location) how about you?
+- I'm from [Cambodia](location) how about you?
+- I'm from [Manchester](location) how about you?
+- I'm from [Seattle](location) how about you
+- I come from [Canada](location) you?
+- I come from [Congo](location), you
+- I come from [Costa Rica](location) and you
+- I come from [Colombia](location) how about you
+- I come from [Cyprus](location), where are you from?
+- near [Minden](location) and you?
+- near [Buenos Aires](location) you
+- near [Bald Hills](location) and you
+- I come from [Hungary](location), what about you?
+- in [Honduras](location) and you
+- in [Iceland](location). You?
+- I live in [Amsterdam](location) now
+- i live in [Austria](location) now
+- i live in [belgium](location) now
+- i live in [salzburg](location) now
+- i live in [nizza](location) now
+- i live in [cannes](location) now
+- i live in [aix en provence](location) now
+- i live in [santiago de compostela](location)
+- i live in [aix en provence](location)
+- i live in [santiago de compostela](location) now
+- in [India](location). How about you?
+- in [Iran](location). What about you?
+- in [Indonesia](location) and you?
+- from [italy](location) you?
+- in [Ivory Coast](location) and you
+- in [Jamaica](location) and you?
+- in [Japan](location), and you
+- in [Jordan](location), you?
+- in [Korea](location). And you?
+- [North Korea](location) and you?
+- [Kenya](location) and you
+- [Luxembourg](location), you?
+- [Macedonia](location). Where are you from?
+- [Lithuania](location). Where do you live?
+- [Libya](location), where do you live
+- [Montenegro](location), where are you from
+- [Morocco](location). what about you
+- [Namibia](location). you?
+- [Netherlands](location). how about you?
+- it's close to [Denmark](location). where are you from
+- it's near [Paris](location). where do you come from?
+- very close to [Nice](location), where is your home.
+- I live very close to [Lyon](location), and you?
+- I live near [Leipzig](location) and you?
+- I live near [tunis](location) n you
+- not far from [Prague](location), what about you?
+- close to [Potsdam](location) and whats yours?
+
+## intent:user.name
+- [Klara](name)
+- [Lisa](name)
+- My name is [Juste](name)
+- I am [Josh](name)
+- I'm [Lucy](name)
+- No, I'm [Adrian](name)
+- People call me [Greg](name)
+- It's [David](name)
+- Usually people call me [Amy](name)
+- My name is [John](name)
+- You can call me [Sam](name)
+- Please call me [Linda](name)
+- Name name is [Tom](name)
+- I am [Richard](name)
+- I'm [Tracy](name)
+- Call me [Sally](name)
+- I am [Philipp](name)
+- I am [Charlie](name)
+- I am [Kevin](name)
+- I am [Ben](name)
+- [Karin](name)
+- [Lucy](name)
+- [agathe](name)
+- [hamza](name)
+- [fabi](name)
+- [Maria](name)
+- [lucy](name)
+- i am [tony](name)
+- i am [albert](name)
+- i am [barbara](name)
+- i am [andrea](name)
+- i am [mary ann](name)
+- i am [marie antoinette](name)
+- i am [hans](name)
+- [franz](name)
+- [fritz](name)
+- Call me [Susan](name)
+- [Lisa](name)
+- [Lucy](name)
+- [Peter](name)
+- [Mark](name)
+- [Joseph](name)
+- [Tan](name)
+- [Pete](name)
+- [Elon](name)
+- [Penny](name)
+- [Mark-Antoine](name)
+- [Anna-Maria](name)
+- [Anna Maria](name)
+- [Nurgul](name)
+- [paul](name)
+- [chris](name)
+- [antoinette](name)
+- [selma](name)
+- [sally](name)
+- [Lisa-Maria-Antonia](name)
+- name is [Andrew](name)
+- I [Lora](name)
+- [Stan](name) is my name
+- [Susan](name) is the name
+- [Ross](name) is my first name
+- [Bing](name) is my last name
+- Few call me as [Angelina](name)
+- Some call me [Julia](name)
+- Everyone calls me [Laura](name)
+- I am [Ganesh](name)
+- My name is [Mike](name)
+- just call me [Monika](name)
+- Few call [Dan](name)
+- You can always call me [Suraj](name)
+- Some will call me [Andrew](name)
+- My name is [Ajay](name)
+- I call [Ding](name)
+- I'm [Partia](name)
+- I'm [Chloe](name)
+- I'm [Sam](name)
+- I'm [Samuel](name)
+- I'm [Anton](name)
+- i'm [Samuel](name)
+- i'm [Loreen](name)
+- i'm [Albert](name)
+- I'm [Donald](name)
+- Please call me [Leo](name)
+- name is [Pari](name)
+- name [Sanjay](name)
+- It's me, [Sally](name)
+- my name is [ashlyn](name)
+- I am [thomas](name)
+- my name is [andreas](name)
+- [Hanna](name)
+- I am [Hanna](name)
+- My name is [Lisa](name)
+- my name is [Josi](name)
+- my name is [Sally](name)
+- I am [tom](name)
+- my name is [linn](name)
+- Im [toni](name)
+- My name is [Sandy](name)
+- my name is [alex](name)
+- my name is [Suzie](name)
+- my name is [Alexander](name)
+- my name is [Hanna](name)
+- my name is [Paul](name)
+- my name is [Thomas](name)
+- my name is [Agathe](name)
+- my name is [Tony](name)
+- my name is [Samuel](name)
+- my name is [Sally](name)
+- my name is [Betty](name)
+- my name is [Mia](name)
+- my name is [Agathe](name)
+- my name is [Tony](name)
+- my name is [Samuel](name)
+- my name is [Sally](name)
+- my name is [Betty](name)
+- my name is [Mia](name) 
+- my name is [Emma](name)
+- my name is [Sofia](name)
+- my name is [Sophia](name)
+- my name is [Emilia](name)
+- my name is [Hannah](name)
+- my name is [Marie](name)
+- my name is [Ben](name)
+- my name is [Mila](name)
+- my name is [Jonas](name)
+- my name is [Elias](name)
+- my name is [brad](name)
+- My name is [Brad](name)
+- I am [Brad](name)
+- Im [Angela](name)
+- My name is [Chris](name)
+- My name is [Paul](name)
+- My name is [Sandra](name)
+- My name is [Peter](name)
+- My name is [Thomas](name)
+- My name is [Judith](name)
+- My name is [Barbara](name)
+- My name is [Andrea](name)
+- My name is [Anne](name)
+- My name is [Anna](name)
+- My name is [Sylvia](name)
+- My name is [Norman](name)
+- My name is [Pauli](name)
+- My name is [Christian](name)
+- My name is [Stefan](name)
+- My name is [Stephan](name)
+- My name is [Susanne](name)
+- My name is [Maria](name)
+- My name is [Andreas](name)
+- My name is [Christoph](name)
+- My name is [Elisabeth](name)
+- My name is [Beth](name)
+- My name is [Edith](name)
+- My name is [Charlie](name)
+- My name is [Dana](name)
+- My name is [Franz](name)
+- My name is [Leon](name)
+- My name is [Finn](name)
+- My name is [Noah](name)
+- My name is [Luis](name)
+- My name is [Louis](name)
+- My name is [Luke](name)
+- My name is [Lucas](name)
+- My name is [Felix](name)
+- My name is [Luca](name)
+- My name is [Maximilian](name)
+- My name is [Henry](name)
+- My name is [Max](name)
+- My name is [Oskar](name)
+- My name is [Emil](name)
+- My name is [Liam](name)
+- My name is [Jacob](name)
+- My name is [Moritz](name)
+- My name is [Jakob](name)
+- My name is [Anton](name)
+- My name is [Barbara](name)
+- My name is [Lina](name)
+- My name is [Lea](name)
+- My name is [Eleni](name)
+- My name is [Lena](name)
+- My name is [Amelie](name)
+- My name is [Leonie](name)
+- My name is [Luisa](name)
+- My name is [Clara](name)
+- My name is [Johanna](name)
+- My name is [Charlotte](name)
+- My name is [Lilly](name)
+- My name is [Daniel](name)
+- My name is [Frank](name)
+- My name is [Otto](name)
+- My name is [Manfred](name)
+- My name is [Jörg](name)
+- My name is [Wolfgang](name)
+- My name is [Angelika](name)
+- my name is [Elke](name)
+- my name is [Emma](name)
+- my name is [Erika](name)
+- my name is [Erica](name)
+- my name is [Christa](name)
+- my name is [Gabriele](name)
+- my name is [Ilse](name)
+- my name is [Ingrid](name)
+- my name is [Katrin](name)
+- my name is [Mary](name)
+- my name is [Melanie](name)
+- my name is [Monika](name)
+- my name is [Martina](name)
+- my name is [Petra](name)
+- my name is [Sabine](name)
+- I am [Stefanie](name)
+- I am [Muhammed](name)
+- I am [Harry](name)
+- I am [Leo](name)
+- I am [Jack](name)
+- I am [Freddie](name)
+- I am [George](name)
+- I am [Archie](name)
+- I am [Arthur](name)
+- I am [Alfie](name)
+- I am [Ethan](name)
+- I am [William](name)
+- I am [Jayden](name)
+- I am [Theodor](name)
+- I am [Ezra](name)
+- I am [Jackson](name)
+- I am [Olivia](name)
+- I am [Ava](name)
+- I am [Arya](name)
+- I am [Grace](name)
+- i am [Isabella](name)
+- i am [Charlotte](name)
+- i am [Sotiria](name)
+- i am [Daisy](name)
+- i am [Rula](name)
+- i am [Evelyn](name)
+- i am [Isabella](name)
+- i am [Ayla](name)
+- i am [Penelope](name)
+- i am [David](name)
+- i am [Elias](name)
+- i am [asdlfkj](name)
+- i am [maria](name)
+- i am [zola](name)
+- i am [maxi](name)
+- i am [julia](name)
+- i am [alexis](name)
+- i am [alexandros](name)
+- i am [ersi](name)
+- i am [eleftheria](name)
+- i am [fabian](name)
+- I am [fabienne](name)
+- I am [lara](name)
+- I am [sara](name)
+- I am [nora](name)
+- I am [ali](name)
+- I am [mohammed](name)
+- I am [theresa](name)
+- I am [nina](name)
+- I am [alina](name)
+- I am [michael](name)
+- I am [michi](name)
+- My name is [chris](name)
+- My name is [paul](name)
+- My name is [sandra](name)
+- My name is [peter](name)
+- My name is [thomas](name)
+- My name is [judith](name)
+- My name is [barbara](name)
+- My name is [andrea](name)
+- My name is [anne](name)
+- My name is [anna](name)
+- My name is [sylvia](name)
+- My name is [norman](name)
+- My name is [pauli](name)
+- My name is [christian](name)
+- My name is [stefan](name)
+- My name is [stephan](name)
+- My name is [susanne](name)
+- My name is [maria](name)
+- My name is [andreas](name)
+- My name is [christoph](name)
+- My name is [elisabeth](name)
+- My name is [beth](name)
+- My name is [edith](name)
+- My name is [charlie](name)
+- My name is [dana](name)
+- My name is [franz](name)
+- My name is [leon](name)
+- My name is [finn](name)
+- My name is [noah](name)
+- My name is [luis](name)
+- My name is [louis](name)
+- My name is [luke](name)
+- My name is [lucas](name)
+- My name is [felix](name)
+- My name is [luca](name)
+- My name is [maximilian](name)
+- My name is [henry](name)
+- My name is [max](name)
+- My name is [skar](name)
+- My name is [emilia](name)
+- My name is [liam](name)
+- My name is [jacob](name)
+- My name is [moritz](name)
+- My name is [jakob](name)
+- My name is [anton](name)
+- My name is [barbara](name)
+- I am [Nora](name:nora)
+- My name is [lina](name)
+- My name is [lea](name)
+- My name is [eleni](name)
+- My name is [lena](name)
+- My name is [amelie](name)
+- My name is [leonie](name)
+- My name is [luisa](name)
+- My name is [clara](name)
+- My name is [johanna](name)
+- My name is [charlotte](name)
+- My name is [lilly](name)
+- My name is [daniel](name)
+- My name is [frank](name)
+- My name is [otto](name)
+- My name is [manfred](name)
+- My name is [jörg](name)
+- My name is [wolfgang](name)
+- My name is [angelika](name)
+- I am [alfie](name)
+- I am [ethan](name)
+- I am [william](name)
+- I am [jayden](name)
+- I am [theodor](name)
+- I am [ezra](name)
+- I am [jackson](name)
+- I am [olivia](name)
+- I am [ava](name)
+- I am [arya](name)
+- I am [grace](name)
+- i am [isabella](name)
+- i am [charlotte](name)
+- i am [sotiria](name)
+- i am [daisy](name)
+- i am [rula](name)
+- i am [evelyn](name)
+- i am [isabella](name)
+- i am [ayla](name)
+- i am [penelope](name)
+- i am [david](name)
+- i am [elias](name)
+- I'm [Samuele](name)
+- I'm [Norbert](name)
+- I'm [Lennart](name)
+- I'm [Leonhard](name)
+- I'm [Leonard](name)
+- i'm [Leo](name)
+- i'm [Paige](name)
+- i'm [holly](name)
+- No my name is [Karin](name)
+- My name is [Kari](name)
+- My name is [Karin](name)
+- MY name is [Chria](name)
+- My name is [Christa](name)
+- My name is [Lara](name)
+- i am [asdlfkj](name)
+- i am [maria](name)
+- i am [zola](name)
+- i am [maxi](name)
+- i am [julia](name)
+- my namw is [Sully](name)
+- My namw is [Mary](name)
+- my namw is [Jordan](name)
+- My namw is [Christiane](name)
+- my namw is [Tanja](name)
+- My name is [daniel](name) Gruber
+- My name is [frank](name) oldman
+- My name is [otto](name) prinz
+- My name is [manfred](name) normal
+- My name is [jörg](name) bauer
+- My name is [wolfgang](name) schlögel
+- My name is [angelika](name) norman
+- I am [alfie](name) schneider
+- I am [ethan](name) hawke
+- I am [william](name) prince
+- I'm [Norbert](name) Hofer
+- I'm [Lennart](name) Egger
+- I'm [Leonhard](name) Kreuzer
+- I'm [Leonard](name) Huber
+- i'm [Leo](name) Turner
+- No my name is [Karin](name) Lampesberger
+- My name is [Kari](name) Wieser
+- My name is [Karin](name) Mayr
+- MY name is [Chria](name) Meyer
+- My name is [Christa](name) Krauss
+
+## intent:user.name+bot.name
+- my name is [Martina](name) and yours?
+- my name is [Petra](name) and yours
+- my name is [Sabine](name) and yours
+- I am [Stefanie](name) and who are you?
+- I am [Muhammed](name). who are you?
+- I am [Harry](name). you?
+- I am [Leo](name) you?
+- I am [Jack](name) n you?
+- I am [Freddie](name) nd you
+- I am [George](name), how about you
+- I am [Archie](name), whats your name
+- I am [Arthur](name), what is your name
+- I am [Alfie](name) and who are you
+- I am [Ethan](name), you?
+- [sally](name) and you?
+- [Lisa-Maria-Antonia](name) and you?
+- name is [Andrew](name) and you
+- I [Lora](name) and you are
+- [Stan](name) is my name and you
+- [Susan](name) is the name and yours
+- [Ross](name) is my first name and whats yours?
+- [Karin](name) and yours?
+- [Lucy](name) and yours
+- [agathe](name) and you?
+- [hamza](name) and what is yours
+- [fabi](name) and what is yours
+- [Maria](name) and yours
+- [hamza](name) and yours
+- [elmar](name) and yours
+- I am [william](name) and who are you?
+- I am [jayden](name) and you
+- I am [theodor](name) and you 
+- I am [ezra](name) and you
+- I am [jackson](name) and you?
+- I am [olivia](name) and you?
+- I am [ava](name) and you?
+- I am [arya](name) and you?
+- I am [grace](name)  and you?
+- i am [isabella](name) and you
+- i am [charlotte](name) and you
+- My name is [andreas](name) and yours?
+- My name is [christoph](name). What's yours?
+- My name is [elisabeth](name). whats yours
+- My name is [beth](name), whats yours
+- My name is [edith](name) and you
+- My name is [charlie](name) and yours?
+- My name is [dana](name) and your name?
+- My name is [franz](name) and what is your name
+- My name is [leon](name) and what is your name?
+- My name is [finn](name) and whats your name
+- My name is [noah](name) and whats your name
+- My name is [luis](name) whats yours
+- My name is [louis](name) what's yours?
+- My name is [luke](name) what is yours
+- My name is [lucas](name) what is yours?
+- My name is [felix](name) and you
+- My name is [luca](name) and yours
+- My name is [maximilian](name) and you
+- My name is [henry](name) and yours?
+- My name is [max](name) and your name?
+- My name is [skar](name) and your name
+- My name is [emilia](name) and your name is what?
+- My name is [liam](name) and your name is what
+- My name is [jacob](name). Whats your name
+
+## intent:user.age
+- I'm 26 years old.
+- I'm 19
+- I'm 12 years old
+- I'm 13 years old
+- I'm 14 years old
+- I'm 15 years old
+- I'm 16 years old
+- I'm 17 years old
+- I'm 18 years old
+- I'm 19 years old
+- I'm 20 years old
+- I'm 21 years old
+- I'm 22 years old
+- I'm 23 years old
+- i'm 24 years old
+- i'm 25 years old
+- i'm 26 years old
+- i am 26 but age is not important
+- i am 28 . age is is not important
+- i'm 27 years old
+- i'm 28 years old
+- sixteen years old
+- i'm twenty years old
+- im 29 years old
+- im 30 years old
+- Im 31 years old
+- I'm 32 years old
+- I'm 33 years old
+- I'm 34 years old
+- I'm 35 years old
+- I'm 36 years old
+- I am 33 years old.
+- I turned 18 a week ago.
+- I turned 20 a few days ago
+- I turned 39 a few days ago
+- I am 20 years
+- 19 years
+
+## intent:user.wants_to_chat
+- let's discuss something
+- let's have a discussion
+- can I speak
+- can I start speaking
+- can we talk
+- speak with me
+- let's talk
+- I want to talk to you
+- I need to talk to you
+- I want to speak with you
+- can we chat
+- I like talking to you
+- Want to talk now
+- Can I talk now?
+- Can we talk here?
+- I'm ready to talk
+- I'm happy to talk
+- Can I talk with you?
+- Come on, talk to me
+- continue chatting
+- lets continue chatting
+- i want to contiue chatting
+- lets talk
+
+## intent:user_mood.bad
+- I am not doing very good
+- I am sad
+- I am not feeling well
+- not very good
+- not so good
+- pretty bad
+- i'm pretty bad
+- actually i am feeling very bad
+- i am not feeling good
+- i am not feeling well
+- i am not feeling very good
+- i am not feeling very great
+- not good
+- not very good
+- I am feeling bad
+- I am depressed
+- I am feeling sad
+- I am upset
+- I'm unhappy
+- I'm having a bad day
+- I want to cry
+- I'm not happy
+- feeling sad
+- I felt sad for no reason
+- Now I'm sad
+- It makes me sad
+- I am sad to hear it
+- I am a very sad person
+- I feel sad every now and then
+- I am as sad and lonely as can be
+- feeling so down
+- i am not in a good mood
+
+## intent:user_mood.good
+- I am good
+- I'm doing just great
+- I'm doing fine
+- I'm good
+- I'm doing good
+- I'm great thanks
+- I'm super good
+- I'm feeling great
+- I'm in a good mood
+- I'm doing really good
+- good
+- It's good
+- I feel good
+- That's good
+- That feels good
+- I feel very good
+- i am pretty good
+- I feel good today
+- I am really good
+- I am doing great, thanks
+- I am fine thanks
+- Fine thanks
+- I am fine
+
+## intent:user_mood.good+greet.how_are_you
+- I'm fine and you?
+- I am doing great and you?
+- fine and you?
+- I am good, how about you?
+- good and you?
+- fine, you?
+- I am very good, I hope you're too?
+- great, thanks, how are you?
+- I'm great thanks, and you?
+- all fine, and you?
+- very good. how about you?
+- Great, and you?
+- great and how are you?
+- I am fine and you?
+- I am great and you?
+- I'm doing fine and you?
+- I am doing fine and you
+- Greeeeat and you
+- Im fine you?
+- im fine you?
+- im great you?
+- Great and you?
+- great and you
+- fine n you
+- fine you
+
+## intent:user.degree_program
+- I am studying [Law](degree_program)
+- I study [Computer Science](degree_program)
+- i study [nursery](degree_program)
+- i study [accounting](degree_program)
+- I'm a [medicine](degree_program) student
+- I study [medicine](degree_program)
+- [medicine](degree_program)
+- I study [business](degree_program)
+- i study [economics](degree_program)
+- I'm studying [Engineering](degree_program)
+- i study [finance](degree_program)
+- i study [social work](degree_program)
+- i study [social sciences](degree_program)
+- [software engineering](degree_program) within the master degree
+- i study [applied physics](degree_program)
+- i study [computer science and media](degree_program)
+- i study [media informatics](degree_program)
+- i study [architecture](degree_program)
+- i study [biotechnology](degree_program)
+- I study [IT](degree_program)
+- [IT](degree_program)
+- [media informatics](degree_program) in my master
+- [Human Development](degree_program) in my bachelor
+- i'm an [it](degree_program) student
+- i'm [it](degree_program) student
+- I study [electrical engineering](degree_program)
+- i study [embedded systems](degree_program)
+- i study [mechatronics](degree_program)
+- i study [medical informatics](degree_program)
+- i study [Health Information](degree_program)
+- i study [Human Development](degree_program)
+- i study [art history](degree_program)
+- i am studying [arts](degree_program)
+- i am studying [applied it](degree_program)
+- i am studying [applied informatics](degree_program)
+- i am studying [applied computer science](degree_program)
+- i am studying [bioengineering](degree_program)
+- i am studying [biology](degree_program)
+- i am studying [gender studies](degree_program)
+- i am studying [linguistics](degree_program)
+- i am studying [mathematics](degree_program)
+- i am studying [chemistry](degree_program)
+- i am studying [physics](degree_program)
+- i am studying [philosophy](degree_program)
+- i am studying [neuroscience](degree_program)
+- i am studying [political science](degree_program)
+- i am studying [psychology](degree_program)
+- i'm studying [chemistry](degree_program)
+- i'm studying [physics](degree_program)
+- i'm studying [philosophy](degree_program)
+- i'm studying [neuroscience](degree_program)
+- i'm studying [political science](degree_program)
+- i'm studying [psychology](degree_program)
+- maybe [computer science](degree_program)
+- i would like to study [IT](degree_program)
+- i would like to study [electrical engineering](degree_program)
+- i would like to study [embedded systems](degree_program)
+- i would like to study [mechatronics](degree_program)
+- i would like to study [medical informatics](degree_program)
+- i would like to study [Health Information](degree_program)
+- i would like to study [Human Development](degree_program)
+- i would like to study [art history](degree_program)
+- maybe I want to study [arts](degree_program)
+- maybe I want to study[bioengineering](degree_program)
+- maybe I want to study [biology](degree_program)
+- maybe I want to study [gender studies](degree_program)
+- i study [Sociology](degree_program)
+- i study [pharmacy](degree_program)
+- i would like to study [public administration](degree_program)
+
+## intent:user.is_student
+- Yes i am a student
+- yes I am a student within my masters degree
+- i am a student in my bachelor
+- i am a bachelor student
+- yes i am a master student
+- yeah i am a bachelor student
+- yes i am a student
+- yes i'm a student.!
+- Yes Im a student - masters degree
+- yes i am a master degree student
+- i am a postgraduate
+- i am a bachelors student
+- yes a masters student
+- yes a bachelor student
+- yes ima master student
+
+## intent:user.degree_program.semester
+- I'm in my last year
+- I'm in my 6th semester
+- in my first semester
+- first semester
+- second semester
+- third year
+- i am in my third year
+- i am in my first year
+- I'm in my fourth year
+- in my last year
+- 12th semester
+- 11th semester
+- i'm about to finish, in my last semester
+- in my last semester
+- i'm in my eight semester
+- in my 1st semester
+- in my 1 semester
+- 3rd semester
+- 5th semester
+- in my 7th semester
+- i am in my 9th semester
+- i'm in my 10th semester
+- i am almost finished. I'm in my last year
+- 12th 
+- twelfth semester
+- twelve semester
+
+
+## intent:user.hobbies
+- My main hobby is golf, but I also like to play football on a Sunday.
+- I like to play snooker in my free time.
+- When am not working,I like talking to other people on the Internet.
+- In my spare time, I love cooking cakes.
+- I like to read cartoon books.
+- During the summer I play cricket, then in the winter, I liking playing football in the local park.
+- i read a lot
+- i play a lot
+- i dance a lot
+- i party a lot
+- i like to party
+- i like to go to the cinema, watch movies, read books
+- i go to the cinema a lot
+- i like to go out
+- in my freetime i like going out
+- in my spare time i like to go out
+- in my free time i read a lot
+- I like most type of sports, but I like football best.
+- i like playing football
+- i like playing computer games
+- i like to go out with friends
+- i love reading books, i am a big fan
+- i like to garden
+- i like to cook and ride my bike
+- i like to go camping
+- in my free time i go shopping a lot
+- i'm a big fan of travelling
+- i travel a lot in my free time
+- my hobbies? i like travelling
+- i like to play chess
+- i like to go swimming in the summer, in the winter i like skiing
+- i like to ski
+- i like to read books and also surf the net
+- i like to play computer
+- i do yoga
+- i do sports
+- i like to do yoga
+- i like doing yoga
+- i like doing sports and yoga
+- i like to go out, have a drink with friends
+- i like having chats with friends
+- i like to watch netflix
+- i like to watch movies
+- i like going to the cinema
+
+## intent:user.profession
+- I'm a teacher
+- i'm a lawyer
+- I'm an engineer
+- i run an program for teenagers
+- I'm an accountant
+- I am a dentist
+- i am a cleaner
+- i am a computer scientist
+- i am a programmer
+- i am programming
+- i am a doctor
+- i am still at school
+- I am still going to school
+- i am a judge
+- i'm a lecturer
+- i'm a professor
+- i'm a farmer
+- I'm a doctor
+- i'm working as a secretary
+- i'm working as a scientist
+- i'm working as a tailor
+- i'm working as a translator
+- i'm working as a waiter
+- i'm working as a waitress
+- i'm working as a pilot
+- i'm working as a real estate agent
+- I'm working in a school
+- I'm working in a restaurant
+- i'm working in a hotel
+- I'm workint in a pharmacy
+- i'm a consultant
+- i work as a it consultant
+- i work at a consultant 
+- I am a IT consultant
+
+## synonym:New York
+- NYC
+- new york
+
+## synonym:Nordrhein-Westfalen
+- NRW
+
+## synonym:United Kingdom
+- UK
+
+## synonym:United States
+- US
+- us
+
+## synonym:I am
+- I'm

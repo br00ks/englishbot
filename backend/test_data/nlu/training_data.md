@@ -1,0 +1,2131 @@
+## intent:appraisal.thanks
+- thanks a bunch for everything
+- well thanks
+- thanks for your help
+- very good thank you
+- amazing, thanks
+- well thanks
+- great thank
+- thank you my friend
+- nice thank you
+- thank you again
+- alright thanks
+- so nice of you
+- thank you that will be all
+- I appreciate it
+- thanks a lot
+- thanks
+- thanks buddy
+- cool thank you
+- Thanks for that
+- thanks again
+- well thank you
+- Thank you
+- thank you for your help
+- thank you
+- thanks for the help
+- thanks love
+- great thank you
+- thank you
+- thnx
+- thanks
+- Thanks bot
+- cool, thanks
+- cheers
+- ok thanks!
+- cheers bro
+- terrific thank you
+- thanks a lot
+- alright thank you
+- perfect thank you
+- cheers
+
+## intent:ask_whatspossible
+- what can i do here
+- cool! can I do something else here?
+- what can i do now
+- some help?
+- where else can you help me?
+- i asked you if you can do anything else
+- what are you good at?
+- Great, is there anything else you can do, bot?
+- so now what
+- what shold i do next??
+- Can you explain me in one sentence what you are doing?
+- so what next?
+- options
+- what are the options?
+- come back
+- help me
+- so what can you do
+- so what can you help me with?
+- what shoulda do next
+- help
+- how can you help me?
+- show me what's possible
+- talk to me!
+- i don't know what i want
+- um what now
+- what should i do
+- what else can you do?
+- Cool, is there something else you can do
+- how can you help me
+- what can I do here
+- hm that doesnt quite help me is there anything else you can do?
+- now what?
+- is there anything else you can do?
+- help?
+- can you do anything else?
+- I need some help
+- what can I do with this bot
+- what are you capable of?
+- what else can I do here?
+- anything els
+- are there any other options?
+- what can you do?
+
+## intent:bot.age
+- are you adult
+- how long have you been living
+- what is your age as of today?
+- tell me your age
+- From how long you have been here?
+- How old will you be turning?
+- age of yours
+- are you an adult?
+- how long have you been live
+- how long have you been living?
+- how can i know about your age
+- are you a baby
+- I'd like to know your age
+- how long have you been live?
+- are you a teenager?
+- are you a baby?
+- how long have you been live so far
+- How old are you now?
+- how old are you?
+- are you an adult
+- are you a grown-up?
+- how old is your platform
+- are you a baby
+- are we the same age?
+- what is your age?
+- You look aged
+- how old r u?
+- How old did you turn?
+
+## intent:bot.bad_joke
+- a bad joke
+- that was stupid
+- what a stupid joke
+- haha that was a bad joke
+- what a bad bad joke
+- ok that was a bad one
+- that was a silly joke
+- that was a very bad joke
+- that really was a bad joke
+- you were right, that joke was bad!
+- ok that was a really bad joke
+- a very bad joke
+- it was not funny
+- that joke was not funny at all
+- You were right, it definitely was a bad joke.
+- you only know bad jokes
+- what a stupid joke
+- that was not funny...
+- such a bad joke
+- that joke was not funny
+- you were right, it was a bad one
+- a very stupid joke
+- that was baaaad!
+
+## intent:bot.be_clever
+- think out of the box
+- you need to learn more
+- you still have to learn a lot
+- smarty pants
+- be smart
+- you should learn
+- there is still a lot to learn for you
+- be useful
+- you need to improve
+- be clever
+- you have to be more smart
+- you have to learn a lot
+- u have to use your brains
+- you must learn
+- be smarter
+- be more smart
+
+## intent:bot.gender
+- please tell me if you're trans
+- do you have a gender?
+- are you transgender?
+- are you a bot with a gender?
+- are you genderfluid?
+- are you a boy
+- What's going on with your gender?
+- are you transsexual
+- You got a gender?
+- are you a guy or woman?
+- are you a girl
+- are you a boy?
+- i dont understand your gender
+- please tell me if you're a boy
+- are you a girl or boy
+- are you a woman?
+- are you nonbinary?
+- can you tell me your gender?
+- Where do you fall in terms of gender
+- i don't understand if you have a gender or not
+- what's your gender
+
+## intent:bot.hobbies
+- do you have hobbies
+- tell me about your hobby
+- how do you spend your time?
+- i want to know about your hobbies
+- what do you do for fun?
+- what do you enjoy doing in your free time?
+- u ought not to have spent so much money on your hobby
+- What's your hobby?
+- what about your hobby?
+- do you have a hobby
+- The important thing is to have your own hobby
+- do you have a hobby
+- how do you spend your free time
+- what are your hobbies?
+- What do you do when you are free?
+- what do you do when you are bored
+- what do you do when you have nothing to do
+- what about your hobby
+- what about your hobby
+- Do you have many hobbies?
+- what's your hobby
+- tell me more about your hobbies?
+- what about your hobbies?
+- what about your hobbies
+
+## intent:bot.joke
+- do you know any jokes
+- come on tell me a joke
+- I would love to hear a joke, please
+- Tell me a joke please
+- please tell me a joke!
+- I need to hear a joke
+- Can you tell me a joke?
+- would you tell me a joke?
+- do you know jokes?
+- tell a joke please
+- Tell me a joke
+- i need to hear a joke right now
+- would you tell me jokes?
+- can you tell me a joke?
+- Please tell me a joke
+- tell me a joke
+- I would like to hear a joke
+- A joke please
+- I would like to hear a joke
+- please tell me a joke
+
+## intent:bot.knows_a_lot
+- how cool are you
+- you seem to know a lot
+- you're intelligent
+- how brainy you are?
+- you're qualified
+- how super are you
+- you're a genius
+- you're very smart
+- you know so much
+- you are qualified
+- you are really smart
+- you are so intelligent
+- why are you so smart?
+- you know a lot
+- wow you know lots of stuff
+- you know a lot of things
+- very smart
+- you seem to know a lot of things
+- you are very intelligent
+- you have a lot of knowledge
+- you're so clever
+- you are a genius
+- how clever you are
+- you are so clever
+- you're so smart
+- you are so brainy
+- you're really brainy
+- you are too smart
+- you're so smart
+- how smart you are?
+- very clever
+- how great are you
+- you're pretty smart
+- how brilliant you are?
+- you are very clever
+
+## intent:bot.languages
+- do you support different languages?
+- do you speak any other language?
+- do you understand Spanish?
+- is English your only language?
+- what languages do you speak?
+- do you understand any other languages than english?
+- do you speak english
+- are you available in deutsch
+- which languages do you support?
+- hablas espanol
+- do you only speak English?
+- sprichst du deutsch?
+- do you understand spanish
+- sprichst du deutsch
+- do you speak German?
+- do you only support English
+
+## intent:bot.location
+- Where do you come from?
+- where do you come from
+- where are you from?
+- And where are you from?
+- where are you from
+- in which country do you live
+- what's your origin?
+- what's your homeland?
+- are you from far away
+- Where are you from?
+- where did you come from
+- your homeland is
+- from where are you
+- which country do you live?
+- where have you been born
+
+## intent:bot.name
+- and what is your name?
+- Whats your name
+- what's your name?
+- Tell me your name
+- what is your name
+- and what is yours?
+- whats your namw?
+- Whats your name?
+- And what is your name?
+- whats your name?
+- What is your name?
+- Your name is?
+- whats your nams?
+- What is your name?
+- What's your name?
+- what is yours?
+- your name is?
+- and what is your name
+- what's your name?
+- how do you want me to call you?
+- and what's yours?
+- what is your name
+- what is your name?
+- whats yours?
+- and whats your name?
+- and what is your name?
+- whats your name
+- And what's your name?
+- What's your name?
+- what is your name
+- Whats your name?
+- ok whats your name
+- ok what's your name?
+
+## intent:bot.real
+- are you real?
+- are you a real person?
+- are you real
+- are you a real?
+- you are not real
+- are you really real
+- are you a real human being
+- are you a real robot?
+- are you alive and real
+- are you a real woman?
+- you are not fake
+- you are real right?
+- so real you are
+- you are soo real
+- are you a real person
+- i'm impressed you're real
+- you are definitely not real
+- i think you're real
+- how real are you
+- you are so real
+
+## intent:bot.stupid
+- you are really the worst bot ever
+- Why are you this lame?
+- you annoy me
+- That's annoying
+- you are irritating
+- you are useless
+- you're really bad
+- You are seriously mindless and stupid
+- you're too annoying
+- you're very bad
+- You really annoy me
+- you are such annoying
+- you are annoying
+- Why are you annoying me so much
+- you're so annoying
+- you are very annoying
+- You're starting to annoy me
+- you are horrible
+- you are terrible
+- you are waste
+- you're awful
+- I find you annoying
+- It's annoying
+- you are very bad
+- you're the worst ever
+- you are lame
+- you suck
+- you're not a good
+- It's just annoying
+- you are not cool
+- why are you so lame
+- you're the worst
+- you're a bad
+- That's so annoying
+- you are no good
+- you're terrible
+- you are disgusting
+- you're bad
+- you are bad
+- How annoying!
+- your are a loser
+- you're incredibly annoying
+
+## intent:confirm.cancel
+- cancel everything
+- cancel soon
+- nothing just forget it
+- cancel that one
+- cancel it
+- no cancel cancel
+- cancel it now
+- forget
+- nooo
+- cancelled
+- nevermind forget about it
+- shall stand cancelled
+- no just cancel
+- i want to cancel
+
+## intent:confirm.no
+- nope
+- Don't show off
+- not really
+- not at this time
+- absolutely no
+- sorry no
+- never
+- no way
+- no forget
+- never
+- don't want your help
+- nope i dont need your help
+- i don't want your help
+- I don't need anything from you
+- of course not
+- i am not okay with your help
+- no
+- no thanks
+- do not
+- I don't want your assistance
+- no don't want
+- no no!
+- not needed
+- not exactly
+- don't like that
+
+## intent:confirm.no+user.location.not_likes
+- no it sucks
+- no i prefer other places
+- not much, I would rather live in the city
+- to be honest, i don't like it
+- not really, it can get boring here
+- i don't like it. There's too many people, too much traffic. nothing to do.
+- no it's absolutely boring here. Nothing to do
+- not really, i prefer other places to live
+- not much, it's too loud and too hot
+- no i don't like it there
+- no i want to move to the countryside
+- Not much - I wanna move soon.
+- No I don't like it there.
+- no it's boring
+- not really, i think its boring
+
+## intent:confirm.yes
+- alright!
+- for sure
+- correct
+- yes
+- fine okay
+- yes yes yes
+- Yes I am.
+- that sounds good
+- yeah fine
+- okey
+- yes pretty much
+- yes, I do.
+- yea fine
+- yes to study
+- that is ok
+- yeaaaaah
+- alright
+- ok
+- Ok!
+- yes sure
+- yep
+- yes i am
+- indeed
+- yeaaaah
+- ok yes
+- yeaaah
+- okay buddy
+- alrighty!
+- yeaah
+- yew
+- yes for studying
+- yep okay
+- of course
+- yup
+- okay that's fine
+- okay cool
+- I agree
+- yeah sure
+- Yes
+- I guess
+
+## intent:confirm.yes+user.location.likes
+- Yes it is so great there
+- yes there's lots to do
+- yes it's great here
+- yeah love it
+- yes it is awesome
+- yeah i love it here
+- I absolutely do
+- yes i do, i love the beaches, the weather, the food, the sun...
+- i love it, yes. there's lots of things to do
+- it's okay
+- yes it's great. you can do lots of things.
+- yes I absolutely love it here
+- yes it's great.
+- its ok
+- I do, it's awesome
+- I really like it, yes.
+- yeah it's never boring, because there's so much to do
+- i really like it, yes.
+- yes there's lots of things to do
+- yes, so great there
+- yeah its awesome to live here
+- yes it's great there. do you know checkpoint charlie? that's where I live.
+- yes, pretty much, i love it
+- I really enjoy living here, so yeah
+- yes i love to live there.
+
+## intent:emotions.ha_ha
+- haha that's funny
+- heheheh
+- ah
+- LMAO
+- laughing out loud
+- ahahaha
+- hahaha funny
+- haha
+- hah
+- hahaha
+- hahahah
+- hehehe
+- ha ha ha ha
+- ahaha
+- haha
+- lmao
+- ahah
+- lol
+- ahah
+- ha ha ha
+- that's funny
+- hahaha very funny
+- hehe
+- ahaha
+- ha ha
+- haha funny
+- jajajaj
+- ha
+
+## intent:greet.goodbye
+- never mind bye
+- See you
+- talk to you later
+- I must go
+- now bye
+- bye bye see you soon
+- bye for now
+- Bye bot
+- thanks bye bye
+- goodbye see you later
+- go to bed
+- byebye
+- bye-bye
+- ok bye
+- see ya
+- hope to see you later
+- have a nice day
+- leave me alone
+- okay bye
+- see ya
+- goodbye
+- bye bye good night
+- good bye
+- see you around
+- I said bye
+- that's it goodbye
+- Goodbye friend
+- get lost
+- bye bye see you
+- See you later
+- see you tomorrow
+- goodbye
+- till next time
+- see you later alligator
+- bye bye take care
+- okay thank you bye
+- that's it for now. Bye
+- catch you later
+- ciao
+- Goodbye
+- bye
+- bye
+- see you
+- see you soon
+
+## intent:greet.hello
+- Hey bot
+- afternoon
+- hi there
+- heeya
+- Hello
+- hey
+- hello EnglishBot
+- hey there
+- oka
+- Hey Englishbot
+- good morning
+- good evening
+- hey bot
+- heya
+- hey buddy
+- Hell
+- hello englishbot
+- Hello
+- Hey
+- howdy
+- hey
+- hi Mister
+- hey
+- Heeeey
+- good morning
+- Heeey
+- he
+- hi
+- hello again
+- hey
+- Heeeya
+- Heeeeello
+- Good morning
+- greetings
+- hi
+- Hello Bot
+- Heyhey!
+- Hi
+- hello
+- Hola
+- heeeeey
+- helo
+- yo man
+- Hallo
+- hey man
+- heey
+- just going to say hi
+- howdy
+- heeey
+- hello?
+- hello there
+- I greet you
+- hey there
+- heey
+- hello everybody
+- Hello!
+- greetings
+- a good day
+- huhu
+- hi again
+- HEy
+- bonjour
+- Hi bot
+- hi there
+
+## intent:greet.how_are_you
+- How are you?
+- how has your day been
+- how are you feeling
+- how do you do?
+- how are you?
+- how are the things going
+- how's it going?
+- How are you doing?
+- how are you doing this morning
+- how are you
+- how was your day
+- is everything all right
+- are you having a good day
+- how's life?
+- hows it goin?
+- what was your day like
+- how is your morning going
+- what about your day
+- how are you
+- how are you going?
+- hope your day is going well
+- how has your day been going
+- how is it going?
+- how your day is going
+- are you alright
+- how's your day
+- how is your day going on
+- How are you
+- how is your day
+- how is your day being
+- how is your morning so far
+- how are you today?
+- how is your evening
+- How's it going?
+- is everything okay
+- hope you re having a pleasant evening
+
+## intent:how_does_it_work
+- what should I do now?
+- what should i ask
+- how should i tell you what to do
+- how should I ask?
+- how can i do that
+- How?
+- what should i ask you?
+- i dont know
+- I don't know how to ask
+- how can I ask for a vocabulary?
+- how can I tell you to tell me a word
+- how should i ask you
+- how should I tell you what to do?
+- i don't know
+- what should i type
+- how does it work?
+- how?
+- how can I do that?
+- i dont know how to ask
+- how can I learn vocabulary?
+
+## intent:learning.exit
+- EXit
+- EXIT
+- please exit
+- please stop
+- ok thats enough
+- i need to leave now
+- i have enough
+- i want to quit
+- how can i stop this?
+- how to stop?
+- stop please
+- quit!
+- Please Exit
+- please exit
+- ok enough
+- Exit please
+- please stop learning
+- I have enough now
+- stop asking me questions
+- Exit
+- i want to leave
+- please stop
+- quit please
+- i need to leave
+- I want to stop learning
+- how can i stop?
+- how can i stop it?
+- how stop?
+
+## intent:learning.hint
+- help me please
+- give a tip
+- Help please
+- Heeeelp please!
+- Please some help
+- help please
+- a hint please
+- give me another hint
+- Give me a hint
+- another one please
+- give me a clue please
+- A tip please
+- i don't know, give a hint
+- don't know, hint please
+- give me another one
+- give a tip
+
+## intent:learning.intent_general
+- can you teach me english?
+- Teach me some English
+- can you teach me english please?
+- i want to learn new stuff
+- I would like to learn some new stuff in English
+- lets learn english
+- teach me english please
+- I like to learn new stuff in English
+- let's learn english
+- teach me something new
+- Tell me some English
+- I want to study English
+
+## intent:learning.teach_vocabulary
+- vocab quiz please
+- I would like to learn new words
+- please, I want to know new vocabulary
+- i want to learn some new vocabulary
+- i want to take a quiz
+- teach me new vocabulary please
+- teach me new vocabulary?
+- I want to know new word
+- Can you teach me new vocabulary?
+- i'd like to know new words
+- can you teach me some new vocabulary?
+- i'd like to know new vocabulary
+- tell me new words
+- Start quiz
+- I want to know new vocabulary
+- I want to practice vocabularies
+- tell me some new vocabulary
+- I wanna know more new vocabulary
+- Tell me more new vocabulary
+- teach me some vocabularx
+- i like to practice vocabulary
+- teach me vocabularx
+- can you teach new vocab?
+- Tell me new words
+- take a vocabulary quiz
+- i want to have vocabulary quiz
+- I want to learn new vocabulary
+- i want to practice vocabs
+- Start quiz please
+- start quiz
+- Ok, I want to practice vocabulary
+- Tell me new vocabulary
+- vocabularx quiz
+
+## intent:nice_to_meet_you
+- it's nice to meet you
+- pleased to meet you
+- nice to meet you
+- it is so nice to meet you
+- i am happy to meet you
+- nice meeting you
+- happy to meet you
+- nice to meet you
+- nice to meet you too
+- nice to meet you englishbot
+- So nice meeting you
+- pleasure to meet you
+- glad to meet you
+- it's so nice meeting you
+- it was nice meeting you
+- happy to meet you
+- nice meeting you
+
+## intent:out_of_scope
+- i want more of you in my life!
+- can you help me with your docs?
+- are you vegan
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- neither
+- you're rather dull
+- you are a stupid bot
+- I changed my mind
+- I like you
+- and your REST API doesn't work
+- better than you
+- show me a picture of a chicken
+- someone call the police i think the bot died
+- who is your favourite robot?
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- But you're an english site :(
+- what's your wife doing this weekend
+- I already told you! I'm a shitmuncher
+- I want french cuisine
+- i want a non dripping ice cream
+- shit bot
+- can you help me with your docs
+- i dont like bots
+- you're a loser lmao
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- do you sell vacuum robots?
+- i want to eat
+- I'm a shitmuncher
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- isn't the newsletter just spam?
+- i am hungry
+- I don't wanna tell the name of my company
+- i will tame a mouse for you
+- do you have a phone number?
+- how are akela's cats doing?
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- is it a wasteland full of broken robot parts?
+- i told you already
+- silly bot
+- oh my god, not again!
+- do you want to marry me?
+- can you help me to build a bot
+- hang on let me find it
+- Do I have to accept?
+- who will anser my email?
+- who are the engineers at rasa?
+- can you help me with the docs?
+- this is a really frustrating experience
+- give me food
+- i hate you
+- i immediately need help with implementing the coolest bot you can imagine
+- udo, I want to marry you
+- i want food
+- restaurant
+- hey little mama let em whisper in your ear
+- common, just try
+- again?
+- really? you're so touchy?
+- I want pizza
+- please help with my ice cream it's dripping
+- how come?
+- are you using Rasa Core and NLU ?
+- who are they?
+- i want pizza
+- shitmuncher
+- i want pizza!!
+- did i break you
+- can i be shown a gluten free restaurant
+- you already have that
+
+## intent:user.age
+- I'm 13 years old
+- I turned 20 a few days ago
+- I'm 36 years old
+- sixteen years old
+- i'm 25 years old
+- I'm 16 years old
+- I'm 12 years old
+- I turned 39 a few days ago
+- I'm 23 years old
+- I'm 21 years old
+- I'm 17 years old
+- Im 31 years old
+- i am 28 . age is is not important
+- I'm 19 years old
+- I'm 32 years old
+- I'm 34 years old
+- im 30 years old
+- I'm 26 years old.
+- I'm 33 years old
+- I'm 35 years old
+- I'm 20 years old
+- I'm 22 years old
+- I am 20 years
+- I'm 15 years old
+- i'm 26 years old
+- i'm 24 years old
+- 19 years
+- i am 26 but age is not important
+- i'm 28 years old
+
+## intent:user.degree_program
+- i am studying [applied informatics](degree_program)
+- i am studying [psychology](degree_program)
+- i study [pharmacy](degree_program)
+- I study [electrical engineering](degree_program)
+- i would like to study [IT](degree_program)
+- i am studying [linguistics](degree_program)
+- I study [medicine](degree_program)
+- i'm studying [physics](degree_program)
+- i am studying [chemistry](degree_program)
+- I'm studying [Engineering](degree_program)
+- i study [embedded systems](degree_program)
+- i would like to study [art history](degree_program)
+- i study [medical informatics](degree_program)
+- I study [IT](degree_program)
+- i am studying [political science](degree_program)
+- i study [Sociology](degree_program)
+- i would like to study [mechatronics](degree_program)
+- i would like to study [public administration](degree_program)
+- i'm an [it](degree_program) student
+- i study [computer science and media](degree_program)
+- i study [media informatics](degree_program)
+- [Human Development](degree_program) in my bachelor
+- maybe [computer science](degree_program)
+- i would like to study [medical informatics](degree_program)
+- i study [accounting](degree_program)
+- maybe I want to study [arts](degree_program)
+- i study [Health Information](degree_program)
+- i'm studying [psychology](degree_program)
+- i am studying [gender studies](degree_program)
+- i am studying [bioengineering](degree_program)
+- i study [applied physics](degree_program)
+- i am studying [physics](degree_program)
+- i am studying [arts](degree_program)
+- maybe I want to study [gender studies](degree_program)
+- I am studying [Law](degree_program)
+- [software engineering](degree_program) within the master degree
+- i study [social work](degree_program)
+- i would like to study [embedded systems](degree_program)
+- i study [social sciences](degree_program)
+- i am studying [applied it](degree_program)
+- i am studying [philosophy](degree_program)
+- i study [art history](degree_program)
+- [media informatics](degree_program) in my master
+- maybe I want to study [biology](degree_program)
+- i'm [it](degree_program) student
+- maybe I want to study[bioengineering](degree_program)
+- i study [economics](degree_program)
+- i am studying [applied computer science](degree_program)
+- i study [Human Development](degree_program)
+- [medicine](degree_program)
+- i'm studying [neuroscience](degree_program)
+- i'm studying [political science](degree_program)
+- i study [architecture](degree_program)
+- i am studying [biology](degree_program)
+- i would like to study [Health Information](degree_program)
+
+## intent:user.degree_program.semester
+- twelve semester
+- in my last year
+- first semester
+- i am in my third year
+- twelfth semester
+- 11th semester
+- I'm in my 6th semester
+- i'm in my eight semester
+- second semester
+- i'm in my 10th semester
+- I'm in my fourth year
+- i am in my first year
+- i am in my 9th semester
+- 12th semester
+- 3rd semester
+- in my 1st semester
+- in my 7th semester
+- 12th
+- i am almost finished. I'm in my last year
+- in my first semester
+
+## intent:user.hobbies
+- During the summer I play cricket, then in the winter, I liking playing football in the local park.
+- i like to play chess
+- i go to the cinema a lot
+- i'm a big fan of travelling
+- i like to watch netflix
+- i party a lot
+- i like playing computer games
+- in my free time i go shopping a lot
+- i like to go out
+- i like to do yoga
+- i like playing football
+- i like doing yoga
+- i like to go to the cinema, watch movies, read books
+- my hobbies? i like travelling
+- in my freetime i like going out
+- i like to watch movies
+- i read a lot
+- i like to party
+- i like to ski
+- I like most type of sports, but I like football best.
+- I like to play snooker in my free time.
+- My main hobby is golf, but I also like to play football on a Sunday.
+- i love reading books, i am a big fan
+- i like to read books and also surf the net
+- i like to go out with friends
+- When am not working,I like talking to other people on the Internet.
+- In my spare time, I love cooking cakes.
+- in my spare time i like to go out
+- in my free time i read a lot
+- i like doing sports and yoga
+- i like going to the cinema
+- i like to go camping
+- i like having chats with friends
+- i like to garden
+- i travel a lot in my free time
+
+## intent:user.is_student
+- yes a masters student
+- yes I am a student within my masters degree
+- i am a bachelor student
+- yes i'm a student.!
+- yeah i am a bachelor student
+- yes ima master student
+- yes i am a student
+- i am a postgraduate
+- Yes i am a student
+- yes i am a master student
+- Yes Im a student - masters degree
+- yes a bachelor student
+
+## intent:user.location
+- [Slovakia](location)
+- in [Romania](location)
+- in [Macedonia](location)
+- close to [Potsdam](location)
+- I'm from [China](location)
+- i live in [istanbul](location)
+- near [Hannover](location)
+- to [Hamburg](location)
+- [Lithuania](location)
+- in [slovenia](location)
+- in [Finland](location)
+- to [Potsdam](location)
+- in [Serbia](location)
+- [Auckland](location)
+- I come from [El Salvador](location)
+- in [Ivory Coast](location)
+- [Russia](location)
+- from [Mexico City](location)
+- very close to [Nice](location)
+- I come from [Eritrea](location)
+- [spain](location)
+- i live near [Aachen](location)
+- i live in [Sylt](location)
+- I'm from [Belgium](location)
+- I come from [Ethiopia](location)
+- close to [Offenburg](location)
+- in [Netherlands](location)
+- in [Croatia](location)
+- [scotland](location)
+- i live near [Eisenstadt](location)
+- Im from the [united states](location)
+- I live in [San Francisco](location)
+- [Serbia](location)
+- i live near [Freiburg Im Breisgau](location)
+- from [Amsterdam](location)
+- i live in [Iraklion](location)
+- I come from [Cyprus](location)
+- it's in [United Kingdom](location)
+- close to [Augsburg](location)
+- from [Afghanistan](location)
+- it's close to [Denmark](location)
+- I live in [London](location)
+- [Netherlands](location)
+- it's in [turkey](location)
+- close to [Hohenschwangau](location)
+- from [Mexico](location)
+- [poland](location)
+- [new zealand](location)
+- near [Herat](location)
+- I'm from [New York](location)
+- I live near [tunis](location)
+- it's in [great britain](location)
+- I come from [Cyprus](location)
+- [Libya](location)
+- I'm from [Australia](location)
+- [Poland](location)
+- I am from [portugal](location)
+- I come from [Austria](location)
+- in [Iceland](location)
+- to [Charlottenburg](location)
+- I come from [Costa Rica](location)
+- in [India](location)
+- in [Jamaica](location)
+- i moved to [Paris](location)
+- from [Andorra](location)
+- I come from [Denmark](location)
+- from [Argentina](location)
+- i live in [bad kreuznach](location)
+- in [Lithuania](location)
+- [afghanistan](location)
+- near [Cornwall](location)
+- I'm from [czech republic](location)
+- I come from [Ecuador](location)
+- close to [Cologne](location)
+- in [Nicaragua](location)
+- [Nicaragua](location)
+- I come from [Estonia](location)
+- i live near [Weimar](location)
+- I'm from [Bosnia Herzegovina](location)
+- I come from [malmö](location)
+- Im from [norway](location)
+- from [Angola](location)
+- I come from [Canada](location)
+- I live in [Istanbul](location)
+- I'm from [Azerbaijan](location)
+- in [Honduras](location)
+- i live in [rio de janeiro](location)
+- in [Japan](location)
+- from [Albania](location)
+- in [Italy](location)
+- in [Morocco](location)
+- it's in [austria](location)
+- in [Mexico](location)
+- I come from [Georgia](location)
+- i live near [Sofia](location)
+- near [Bald Hills](location)
+- in [Israel](location)
+- I live near [Las Vegas](location)
+- to [Neukölln](location)
+- in [Kosovo](location)
+- I'm from [Austria](location)
+- [france](location)
+- I live near [Leipzig](location)
+- i live in [Copenhagen](location)
+- I come from [lisboa](location)
+- I'm from the [us](location:United States)
+- [France](location)
+- i live in [bad vöslau](location)
+- I'm from [Bulgaria](location)
+- i live near [New York](location)
+- I come from [Djibouti](location)
+- it's in [poland](location)
+- it's in [scotland](location)
+- [Austria](location)
+- I'm from [Botswana](location)
+- in [Slovakia](location)
+- in [Montenegro](location)
+- [Macedonia](location)
+- to [Mecklenburg-Vorpommern](location)
+- I am from [Germany](location)
+- in [Russia](location)
+- near [Berlin](location)
+- i live near [Ulm](location)
+- I am from [Brazil](location)
+- I am from [Switzerland](location)
+- I live in [Berlin](location)
+- i live in [Hamburg](location)
+- in [croatia](location)
+- near [Buenos Aires](location)
+- near [Würzburg](location)
+- I come from [Hungary](location)
+- close to [Köln](location)
+- I live in [vienna](location)
+- to [NRW](location)
+- Near [Kabul](location)
+- i live near [Salzburg](location)
+- to [Jamaica](location)
+- in [Namibia](location)
+- to [Hamburg](location)
+- I come from [France](location)
+- I'm from [Cambodia](location)
+- it's in [UK](location:United Kingdom)
+- Im from [Norway](location)
+- I'm from [Oslo](location)
+- I come from [Lisboa](location)
+- i live near [Villach](location)
+- [Kenya](location)
+- i'm living in [münchen](location)
+- Im from the [United States](location)
+- [Sweden](location)
+- in [Sweden](location)
+- I am from [Portugal](location)
+- it's in [germany](location)
+- I live in [The Hague](location)
+- From [Paris](location)
+- in [Korea](location)
+- I'm from [Los Angeles](location)
+- from [Armenia](location)
+- I am from [Berlin](location)
+- [Poland](location)
+- [Montenegro](location)
+- in [finland](location)
+- i live in [golling-abtenau](location)
+- i live in [brazil](location)
+- I live in [Ireland](location)
+- in [Saudi Arabia](location)
+- I'm from [oslo](location)
+- from [Madrid](location)
+- to [Aberdeen](location)
+- I come from [Egypt](location)
+- i live near [Coburg](location)
+- I'm from [Vienna](location)
+- it's in [afghanistan](location)
+- i live in [london](location)
+- to [Kreuzberg](location)
+- I come from [Cuba](location)
+- in [Mexico City](location)
+- I'm from the [US](location:United States)
+- to [Berlin](location)
+- in [Iraq](location)
+- [North Korea](location)
+- i live in [munich](location)
+- I come from [Equatorial Guinea](location)
+- I'm from [Antigua](location)
+- i live in [tyrol](location)
+- from [Algeria](location)
+- I come from [rome](location)
+- in [Zagreb](location)
+
+## intent:user.location+bot.location
+- [Macedonia](location). Where are you from?
+- I'm from [Dublin](location) how about you?
+- it's near [Paris](location). where do you come from?
+- I come from [Cyprus](location), where are you from?
+- I'm from [Brighton](location) how about you?
+- I come from [Costa Rica](location) and you
+- i live in [nizza](location) now
+- very close to [Nice](location), where is your home.
+- i live in [aix en provence](location)
+- in [Jamaica](location) and you?
+- I live near [Leipzig](location) and you?
+- I'm from [Cambodia](location) how about you?
+- in [Iran](location). What about you?
+- i live in [aix en provence](location) now
+- I'm from [Bulgaria](location) and you
+- I'm from [Bosnia Herzegovina](location) and you?
+- [Libya](location), where do you live
+- i live in [santiago de compostela](location)
+- I'm from [Cambodia](location) how about you?
+- I live in [Amsterdam](location) now
+- I'm from [Botswana](location) and you? where do you live?
+- in [Korea](location). And you?
+- [Lithuania](location). Where do you live?
+- in [Honduras](location) and you
+- close to [Potsdam](location) and whats yours?
+- i live in [belgium](location) now
+- [North Korea](location) and you?
+- in [Jordan](location), you?
+- near [Minden](location) and you?
+- I live very close to [Lyon](location), and you?
+- [Netherlands](location). how about you?
+- not far from [Prague](location), what about you?
+- it's close to [Denmark](location). where are you from
+- [Morocco](location). what about you
+- near [Bald Hills](location) and you
+- I live near [tunis](location) n you
+- I come from [Colombia](location) how about you
+- [Luxembourg](location), you?
+- near [Buenos Aires](location) you
+- I come from [Hungary](location), what about you?
+- I'm from [Seattle](location) how about you
+- from [italy](location) you?
+- i live in [Austria](location) now
+- in [Indonesia](location) and you?
+- [Namibia](location). you?
+- I'm from [Manchester](location) how about you?
+
+## intent:user.name
+- Call me [Susan](name)
+- Please call me [Linda](name)
+- My name is [Brad](name)
+- My name is [Moritz](name)
+- my namw is [Jordan](name)
+- I am [Stefanie](name)
+- i am [zola](name)
+- I am [Jackson](name)
+- i am [david](name)
+- [Karin](name)
+- i am [elias](name)
+- My name is [Franz](name)
+- My name is [Louis](name)
+- i am [maxi](name)
+- My name is [Pauli](name)
+- I'm [Norbert](name) Hofer
+- My name is [Lucas](name)
+- my name is [Monika](name)
+- my name is [ashlyn](name)
+- my name is [Gabriele](name)
+- I am [alina](name)
+- My namw is [Mary](name)
+- I call [Ding](name)
+- i am [ayla](name)
+- My name is [daniel](name)
+- MY name is [Chria](name) Meyer
+- My name is [moritz](name)
+- My name is [andrea](name)
+- I am [George](name)
+- My name is [angelika](name) norman
+- My name is [anna](name)
+- [lucy](name)
+- [selma](name)
+- My name is [luca](name)
+- My name is [maria](name)
+- i am [albert](name)
+- My name is [John](name)
+- My name is [christian](name)
+- [paul](name)
+- My name is [susanne](name)
+- My name is [peter](name)
+- My name is [lena](name)
+- my name is [Suzie](name)
+- My name is [lea](name)
+- i'm [Leo](name) Turner
+- It's me, [Sally](name)
+- I am [Ethan](name)
+- I'm [Tracy](name)
+- My name is [Wolfgang](name)
+- my name is [Samuel](name)
+- My namw is [Christiane](name)
+- I am [Leo](name)
+- My name is [Chris](name)
+- My name is [Stefan](name)
+- No, I'm [Adrian](name)
+- I am [nora](name)
+- i am [hans](name)
+- My name is [Barbara](name)
+- My name is [elisabeth](name)
+- I am [ali](name)
+- [sally](name)
+- I am [william](name)
+- my name is [alex](name)
+- [Anna-Maria](name)
+- [Anna Maria](name)
+- i am [Ayla](name)
+- [Pete](name)
+- My name is [Daniel](name)
+- i am [Rula](name)
+- My name is [Charlie](name)
+- i am [fabian](name)
+- I'm [Lennart](name)
+- my namw is [Tanja](name)
+- my name is [Christa](name)
+- My name is [Liam](name)
+- My name is [sandra](name)
+- My name is [pauli](name)
+- i am [Charlotte](name)
+- I am [William](name)
+- My name is [Manfred](name)
+- [franz](name)
+- my name is [Mila](name)
+- My name is [Stephan](name)
+- I am [ava](name)
+- My name is [Andrea](name)
+- You can always call me [Suraj](name)
+- My name is [stefan](name)
+- my name is [Betty](name)
+- i am [eleftheria](name)
+- [Bing](name) is my last name
+- I am [arya](name)
+- My name is [andreas](name)
+- My name is [Finn](name)
+- I am [Jack](name)
+- I'm [Lennart](name) Egger
+- My name is [Paul](name)
+- I am [Brad](name)
+- My name is [angelika](name)
+- i am [zola](name)
+- I am [Charlie](name)
+- i am [evelyn](name)
+- My name is [frank](name) oldman
+- my name is [Melanie](name)
+- I am [ethan](name)
+- my name is [brad](name)
+- i am [maria](name)
+- I [Lora](name)
+- My name is [daniel](name) Gruber
+- My name is [Edith](name)
+- My name is [beth](name)
+- Usually people call me [Amy](name)
+- My name is [chris](name)
+- my name is [Martina](name)
+- Im [Angela](name)
+- My name is [Susanne](name)
+- my name is [Josi](name)
+- My name is [stephan](name)
+- [Joseph](name)
+- My name is [manfred](name) normal
+- My name is [noah](name)
+- My name is [barbara](name)
+- My name is [franz](name)
+- my name is [Elke](name)
+- I am [alfie](name) schneider
+- i am [andrea](name)
+- I am [Philipp](name)
+- My name is [Karin](name) Mayr
+- My name is [Peter](name)
+- i am [Daisy](name)
+- Everyone calls me [Laura](name)
+- My name is [Jacob](name)
+- My name is [charlie](name)
+- [Mark-Antoine](name)
+- My name is [Anne](name)
+- My name is [Maria](name)
+- I am [theresa](name)
+- I'm [Leonard](name)
+- My name is [Luca](name)
+- My name is [wolfgang](name) schlögel
+- my name is [Sophia](name)
+- My name is [Luisa](name)
+- my name is [Emma](name)
+- [agathe](name)
+- My name is [Sandra](name)
+- Few call [Dan](name)
+- My name is [Amelie](name)
+- I am [Ezra](name)
+- my name is [Petra](name)
+- I am [theodor](name)
+- i am [julia](name)
+- [Lisa](name)
+- My name is [Emil](name)
+- I am [jayden](name)
+- My name is [Lina](name)
+- i am [ersi](name)
+- My name is [Otto](name)
+- my name is [Thomas](name)
+- I am [william](name) prince
+- I am [alfie](name)
+- [Elon](name)
+- No my name is [Karin](name) Lampesberger
+- i am [Evelyn](name)
+- I am [Nora](name:nora)
+- I am [jackson](name)
+- Call me [Sally](name)
+- I am [Kevin](name)
+- My name is [wolfgang](name)
+- I am [Alfie](name)
+- My name is [luis](name)
+- Name name is [Tom](name)
+- i am [daisy](name)
+- [Nurgul](name)
+- I am [nina](name)
+- I am [Olivia](name)
+- It's [David](name)
+- i am [julia](name)
+- i am [marie antoinette](name)
+- My name is [Clara](name)
+- My name is [Ajay](name)
+- My name is [Oskar](name)
+- my name is [Sofia](name)
+- i am [penelope](name)
+- My name is [johanna](name)
+- my name is [Sally](name)
+- My name is [jacob](name)
+- [Susan](name) is the name
+- You can call me [Sam](name)
+- I'm [Partia](name)
+- My name is [Dana](name)
+- My name is [emilia](name)
+- I'm [Norbert](name)
+- [hamza](name)
+- My name is [lucas](name)
+- i'm [holly](name)
+- My name is [Judith](name)
+- my name is [Emma](name)
+- I'm [Lucy](name)
+- name [Sanjay](name)
+- [Klara](name)
+- I am [Harry](name)
+- my name is [Ingrid](name)
+- My name is [Lena](name)
+- I am [ezra](name)
+- [Lucy](name)
+- i am [barbara](name)
+- My name is [otto](name)
+- My name is [luisa](name)
+- My name is [Lea](name)
+- my name is [Agathe](name)
+- My name is [louis](name)
+- i am [David](name)
+- My name is [jörg](name)
+- i am [Sotiria](name)
+- My name is [Thomas](name)
+- My name is [edith](name)
+- I am [Arya](name)
+- My name is [Sylvia](name)
+- [fabi](name)
+- My name is [Jörg](name)
+- name is [Pari](name)
+- I am [Ganesh](name)
+- my name is [Agathe](name)
+- my name is [Emilia](name)
+- My name is [anton](name)
+- I am [grace](name)
+- My name is [Max](name)
+- my name is [Hanna](name)
+- My name is [Sandy](name)
+- I am [Richard](name)
+- i am [maxi](name)
+- My name is [Anna](name)
+- My name is [anne](name)
+- My name is [Karin](name)
+- [Maria](name)
+- My name is [frank](name)
+- i am [isabella](name)
+- i am [isabella](name)
+- I am [michi](name)
+- [Hanna](name)
+- I am [lara](name)
+- i am [charlotte](name)
+- my name is [Katrin](name)
+- My name is [otto](name) prinz
+- I'm [Samuele](name)
+- I am [Jayden](name)
+- my name is [Alexander](name)
+- [antoinette](name)
+- I'm [Sam](name)
+- I am [Theodor](name)
+- Few call me as [Angelina](name)
+- my name is [Sabine](name)
+- my name is [Erica](name)
+- My name is [Juste](name)
+- My name is [charlotte](name)
+- i'm [Albert](name)
+- i am [maria](name)
+- [Lucy](name)
+- My name is [clara](name)
+- My name is [Kari](name) Wieser
+- My name is [Christa](name) Krauss
+- [Peter](name)
+- MY name is [Chria](name)
+- My name is [amelie](name)
+- My name is [leon](name)
+- my name is [Sally](name)
+- My name is [Luis](name)
+- name is [Andrew](name)
+- My name is [Christoph](name)
+- I am [tom](name)
+- [Mark](name)
+- My name is [sylvia](name)
+- my name is [andreas](name)
+- my name is [Mia](name)
+- My name is [Mike](name)
+- My name is [skar](name)
+- [Penny](name)
+- My name is [lilly](name)
+- My name is [Elisabeth](name)
+- My name is [Jakob](name)
+- Im [toni](name)
+- My name is [maximilian](name)
+- My name is [jörg](name) bauer
+- My name is [Angelika](name)
+- i am [Isabella](name)
+- My name is [judith](name)
+- i'm [Loreen](name)
+- Some call me [Julia](name)
+- I'm [Anton](name)
+- my name is [Paul](name)
+- My name is [Leon](name)
+- My name is [liam](name)
+- I am [Arthur](name)
+- My name is [manfred](name)
+- My name is [Christa](name)
+- i am [alexandros](name)
+- I am [Hanna](name)
+- my name is [Samuel](name)
+- i am [Penelope](name)
+- I am [Ava](name)
+- i'm [Leo](name)
+- My name is [Christian](name)
+- No my name is [Karin](name)
+- my name is [Tony](name)
+- My name is [Leonie](name)
+- i am [tony](name)
+- I am [Freddie](name)
+- my name is [Mia](name)
+- just call me [Monika](name)
+- My name is [jakob](name)
+- my name is [Jonas](name)
+- My name is [lina](name)
+- I am [ethan](name) hawke
+- [Lisa](name)
+
+## intent:user.name+bot.name
+- My name is [luis](name) whats yours
+- My name is [elisabeth](name). whats yours
+- My name is [henry](name) and yours?
+- My name is [max](name) and your name?
+- My name is [emilia](name) and your name is what?
+- My name is [leon](name) and what is your name?
+- [Karin](name) and yours?
+- My name is [beth](name), whats yours
+- I am [Alfie](name) and who are you
+- my name is [Sabine](name) and yours
+- My name is [andreas](name) and yours?
+- My name is [finn](name) and whats your name
+- I am [arya](name) and you?
+- My name is [felix](name) and you
+- my name is [Petra](name) and yours
+- [hamza](name) and what is yours
+- I am [grace](name)  and you?
+- I am [Freddie](name) nd you
+- I am [ezra](name) and you
+- I am [jackson](name) and you?
+- I am [Ethan](name), you?
+- My name is [luca](name) and yours
+- [fabi](name) and what is yours
+- I am [ava](name) and you?
+- I am [olivia](name) and you?
+- my name is [Martina](name) and yours?
+- [hamza](name) and yours
+- My name is [liam](name) and your name is what
+- [Stan](name) is my name and you
+- I am [Arthur](name), what is your name
+- i am [isabella](name) and you
+- [Ross](name) is my first name and whats yours?
+- I am [Archie](name), whats your name
+- [agathe](name) and you?
+- I am [theodor](name) and you
+- I am [jayden](name) and you
+- My name is [christoph](name). What's yours?
+- I am [George](name), how about you
+- [Lucy](name) and yours
+- My name is [luke](name) what is yours
+- [elmar](name) and yours
+- I am [william](name) and who are you?
+- My name is [dana](name) and your name?
+- My name is [charlie](name) and yours?
+- I am [Jack](name) n you?
+- My name is [louis](name) what's yours?
+- [Lisa-Maria-Antonia](name) and you?
+- My name is [edith](name) and you
+- My name is [lucas](name) what is yours?
+- name is [Andrew](name) and you
+- [Susan](name) is the name and yours
+
+## intent:user.profession
+- i'm a consultant
+- i'm working as a tailor
+- I am a IT consultant
+- i run an program for teenagers
+- i'm working as a translator
+- i'm a farmer
+- i am a judge
+- i'm working as a waiter
+- i'm working as a waitress
+- i'm a professor
+- i work as a it consultant
+- i'm a lecturer
+- I'm workint in a pharmacy
+- i'm working as a secretary
+- I'm an engineer
+- i'm working as a real estate agent
+- I'm working in a school
+- I am a dentist
+- i am a doctor
+- i work at a consultant
+- i am a programmer
+- i am a computer scientist
+- i am programming
+- I am still going to school
+- I'm an accountant
+- i am still at school
+- i'm a lawyer
+
+## intent:user.wants_to_chat
+- I'm ready to talk
+- Can I talk now?
+- i want to contiue chatting
+- Can I talk with you?
+- let's discuss something
+- can I speak
+- I need to talk to you
+- Want to talk now
+- I want to speak with you
+- lets talk
+- can we talk
+- Come on, talk to me
+- can I start speaking
+- continue chatting
+- I'm happy to talk
+- I want to talk to you
+- I like talking to you
+- let's talk
+
+## intent:user_mood.bad
+- I am feeling sad
+- I am feeling bad
+- not very good
+- I am depressed
+- i'm pretty bad
+- feeling sad
+- I am sad
+- actually i am feeling very bad
+- i am not feeling very good
+- i am not feeling very great
+- feeling so down
+- i am not in a good mood
+- I'm having a bad day
+- I felt sad for no reason
+- I feel sad every now and then
+- I am upset
+- pretty bad
+- I am as sad and lonely as can be
+- not good
+- I'm not happy
+- I want to cry
+- not very good
+- I am a very sad person
+- i am not feeling well
+- Now I'm sad
+
+## intent:user_mood.good
+- I'm super good
+- It's good
+- I feel good today
+- I am doing great, thanks
+- Fine thanks
+- I'm good
+- I'm doing fine
+- I'm great thanks
+- I feel good
+- I'm doing just great
+- I'm in a good mood
+- I'm doing good
+- I am good
+- That's good
+- I feel very good
+- I am fine
+- I am really good
+- I am fine thanks
+
+## intent:user_mood.good+greet.how_are_you
+- I'm great thanks, and you?
+- good and you?
+- fine, you?
+- Great and you?
+- Im fine you?
+- fine n you
+- very good. how about you?
+- I'm doing fine and you?
+- Great, and you?
+- great and how are you?
+- I am great and you?
+- I am fine and you?
+- fine you
+- great and you
+- I'm fine and you?
+- I am doing fine and you
+- great, thanks, how are you?
+- I am very good, I hope you're too?
+- fine and you?
+- I am doing great and you?
+
+## intent:what_time_is_it
+- do you know what time it is?
+- what's the time?
+- do you know the current time?
+- what's the time right now?
+- tell me the time
+- do you know what time it is right now?
+- what is the time
+- whats the time right now
+- you know what time it is
+- what is the time please???
+- what time is it
+- i want to know how early it is
+- can you tell me what time it is?
+- whats the time please
+- please what is the time
+- the time please
+- how early is it?
+- is it early?
+- how late is it?
+- may i know the time please
+- what's the time?
+- please I wanna know the time
+- what's the time pleas
+- can you tell me what time it is
+- Is it late yet?
+
+## intent:word.meaning
+- what is a [coworking space](word)
+- tell me the meaning
+- what are [salmons](word)?
+- what are [dormitories](word)
+- what is [creamy](word)?
+- what is a [masters degree](word)
+- the word [universtiy](word)
+- what is a [salad dressing](word)
+- whats the meaning of [embarrassing](word)
+- whats the meaning of [dining hall](word)
+- the word [cucumber](word)
+- to [enroll](word)
+- what does "[seldom](word)" meam?
+- what is a [chess piece](word)
+- what's a [comedy](word)
+- Thanks, please tell me another word.
+- can you tell me the meaning of "[term](word)"
+- what's a [baggage](word)
+- the word [average](word)
+- what is a [water colour](word)
+- what's the meaning of [ocean](word)
+- whats [term](word)
+- what does "[human resources](word)" mean?
+- Tell me the meaning of a word
+- the word [plants](word)
+- what does to [hate](word) meam?
+- what does [quid pro quo](word) mean?
+- what is a [diploma](word)
+- the meaning of [blizzard](word)
+- what is a [PHD](word)?
+- what does to "[sign up](word)" for a class mean?
+- what's a [control](word)
+- what is a [blizzard](word)
+- what's a [dog](word)?
+- what is [matriculation](word)?
+- what's to [cross](word)
+- the word [trousers](word)
+- tell me the meaning of a word
+- what is a [note](word)
+- what is the meaning of [curriculum](word)?
+- whats a [canteen](word)
+- can you tell me what an [elephant](word) is?
+- whats to [postpone](word)
+- whats [desert sand](word)
+- what is [global warming](word)
+- what is the meaning of [minor](word)
+- what is [climate change](word)
+- whats [apology](word)
+- what's an [address](word)
+- what is a [birth parent](word)
+- what a [department](word)
+- what is a [historical novel](word)
+- whats an [undergraduate degree](word)
+- to [register](word)
+- what is an [oil painting](word)
+- whats an [airport](word)
+- the word [blue](word)
+- the word [faculty](word)
+- what's [learning](word)?
+- what does "[cloak](word)" mean?
+- what does to [keep an eye on](word) meam?
+- what the meaning of an [academic year](word)?
+- what are [mashed potatoes](word)
+- what is [time off](word)
+- what's "[freshman](word)"
+- whats the meaning of [teaching assistant](word)
+- the word [computer science](word) mean
+- what are [prerequisites](word)
+- what is a [notebook](word)
+- what is an [academic advisor](word)
+- what is a [fringe benefit](word)
+- what is an [alumni](word)
+- the word [applied](word)
+- what is a [department](word)
+- what's the meaning of [typing](word)?
+- tell me whats [barber](word)
+- what is a [professor](word)
+- the word [loan](word)
+- Whats to "[sign up](word)" for something
+- have you ever heard about the word [wanderlust](word)
+- what is [draught beer](word)
+- what is the meaning of [claustrophobia](word)
+- the verb [sign up](word)
+- Whats a [counsellor](word)?
+- what is [term](word)
+- can you tell me what's [homecoming](word)?
+- tell me what [emphasize](word) means
+- what is a [fisher](word)
+- I don't know what [tipping](word) means.
+- what does "[foreign office](word)" mean?
+- whats a [pen](word)
+- whats a [lab](word)
+- whats the meaning of [quiz](word)
+- what is the meaning of to [ace](word)
+- what does [apple](word) mesn?
+- what does [boring](word) mean
+- what are [lockers](word)?
+- whats [undergraduate](word)
+- what's a "[pen](word)"
+- meaning of "[dean](word)"
+- what's the meaning of [life](word)?
+- what is the meaning of [film](word)
+- what's the meaning of [exam](word)?
+- what does [cops](word) mesn?
+- what does "[european union](word)" mean?
+- what is to [ace](word)
+- what is [eggplant](word)?
+- what is the meaning of [health](word)
+- whats [health](word)
+- what are [orchestra](word)?
+- whats to [call](word)
+- whats an [health insurance](word)
+- what does [open source](word) meam?
+- the word [choreography](word) mean
+- what is [bursar](word)?
+- waht is [helicopter](word)?
+- what is a [squirrel](word)
+- tell me the meaning of words
+- what's a [toothbrush](word)
+- whats to [implement](word)
+- [moonlight](word) meaning
+- what are [exams](word)
+- the word [science](word)
+- What does it mean if something is [prerequisite](word)
+- what is an [elective](word)
+- what's an [envelope](word)
+- what are [organism](word)?
+- waht is [cricket](word)?
+- what is a [cheque book](word)
+- what is the meaning of to [enroll](word)
+- meaning of [curriculum](word)
+- what are [high heels](word)
+- what is a [bed and breakfast](word)
+- what is a [fine](word)
+- whats [business](word)
+- whats the [German Democratic Republic](word)
+- whats an [academic advisor](word)
+- the meaning of "[matriculate](word)"
+- what does "[keeping an eye on](word)" mean?
+- what's a [banknote](word)
+- whats to [cram](word)
+- whats to [enroll](word)
+- the word [origin](word) mean
+- I don't understand the meaning of an [rollercoaster](word).
+- what is an [health insurance](word)
+- can you tell me what the verb [calculate](word) means?
+- I wanna now the meaning of a word
+- Please tell me what an [salmon](word) is.
+- what is a [bursary](word)
+- what does "[hitchhiking](word)" mean?
+- what is the meaning of [term](word)
+- whats a [schedule](word)
+- what is a [dining hall](word)
+- whats the meaning of [undergraduate degree](word)
+- what's a [machine gun](word)
+- whats to [struggle](word)
+- what does "[erasmus program](word)" mean
+- what is a [swimming pool](word)
+- what's a [target](word)
+- what is a [prerequisite](word)
+- the word [cinnamon](word)
+- Can you tell me another meaning of a word?
+- can you tell me the meaning of the verb [concern](word)
+- waht is [notion](word)?
+- what does the verb to "[check in](word)" for something mean?
+- what's a [sorority](word)
+- whats a [blizzard](word)
+- what is the [greenhouse effect](word)
+- what is the meaning of to [sign up](word)
+- what does [keeping an eye on](word) meam?
+- what's a [charge](word)
+- what does "[toddler](word)" mean?
+- have you ever heard about the word [deer](word)?
+- [encourage](word) means?
+- what does it mean if something is [compulsory](word)?
+- what's a [feature](word)
+- whats to [mark](word)
+- have you heard the wird [dreams](word)
+- whats a [faculty](word)
+- waht is [book shelf](word)?
+- what is [sponge](word)?
+- what is the meaning of [health insurance](word)
+- what's a [potato](word)
+- the word "[cucumber](word)"
+- what is [sorrow](word)?
+- what's [postgraduate](word)
+- meaning of verb [cram](word)
+- tell me what [enemy](word) means
+- whats [earthquake](word)
+- what is an [aid](word)
+- the word [crystal](word)
+- Have you ever heard the word [ocelot](word)?
+- and [god](word) means?
+- tell me what's [squeeze](word)
+- what does to [pass](word) meam
+- whats to [sign up](word)
+- what are [grades](word)
+- what does [pear](word) mesn
+- tell me what [blueberry](word) means
+- whats the meaning of [passing](word)
+- can you tell me another word?
+- whats [anomaly](word)
+- what's to [struggle](word)
+- what is a [discipline](word)
+- whats [stony ground](word)
+- what's [phd](word)?
+- whats to [ace](word)
+- what is the meaning of [granny](word)
+- what is a [train](word)?
+- whats the meaning of "[freshman](word)"
+- How would you describe a [cat](word)?
+- what is [maternity leave](word)
+- what is a [cherry blossom](word)
+- tell me what's [procrastination](word)
+- tell me whats [nasty](word)
+- what is an [airline](word)
+- whats [flea market](word)
+- what is to [sign up](word)
+- the word [penny](word)
+- what does "[apparently](word)" mean?
+- what does "[secretary of state](word)" mean?
+- what does [cramming](word) mean
+- tell me what's [independence day](word)
+- the word [tomato](word)
+- what the meaning of [accomodation services](word)?
+- what's a [tipping point](word)?
+- tell me what's [thunder](word)
+- what does it mean if someone [postpones](word) a meeting
+- whats a [fine](word)?
+- tell me what [drop off](word) means
+- what is the meaning of [to love](word)?
+- what do you mean by [poor](word)
+- whats "[signing up](word)"
+- what does "[quid pro quo](word)" mean?
+- what is [crab](word)?
+- what is a [bank account](word)
+- what does [to dive](word) meam?
+- what does "[statistics](word)" mean?
+- what does [orange](word) mesn
+- what is the meaning of [party](word)
+- what does it mean if someone wants to [postpone a meeting](word)
+- tell me what's [construction](word)
+- what is an [elective course](word)
+- what is [dance](word)?
+- whats a [freshman](word)
+- what is "[Bastille Day](word)"
+- whats [elegant](word)
+- what is a "[grant](word)"
+- tell me whats [ankle](word)
+- what is a [grant](word)
+- the meaning of "[matriculate](word)"
+- what is a [dean](word)
+- what is [health](word)
+- can you tell me another meaning?
+- what is a [minor](word)
+- what's a [weather forecast](word)
+- what is a [youth hostel](word)
+- whats the meaning of [discipline](word)
+- what's a [mouse pad](word)
+- what does [embarrassing](word) mean?
+- the word [information technology](word)
+- what is a [shower gel](word)
+- what's to [audit](word) a course?
+- tell me another word!
+- what does "[adult](word)" mean?
+- what is [fast food](word)
+- what is a [quiz](word)
+- what does "[exchange year](word)" mean
+- what's a [nail polish](word)
+- Please tell me another word.
+- what is a [carbon footprint](word)
+- can you tell me the meaning of the word "[love](word)"
+- whats to [dance](word)
+
+## synonym:I am
+- I'm
+
+## synonym:New York
+- NYC
+- new york
+
+## synonym:Nordrhein-Westfalen
+- NRW
+
+## synonym:United Kingdom
+- UK
+
+## synonym:United States
+- US
+- us
+
+## synonym:castrop rauxel
+- Castrop Rauxel
+
+## synonym:nora
+- Nora

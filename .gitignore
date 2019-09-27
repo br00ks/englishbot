@@ -12,3 +12,11 @@ languagetool/languagetool-commandline.jar
 languagetool/languagetool-server.jar
 languagetool/testrules.bat
 languagetool/testrules.sh
+
+### backend ###
+backend/apis/__pycache__/
+backend/events.db
+backend/errors.json
+backend/graph.html
+backend/todo
+

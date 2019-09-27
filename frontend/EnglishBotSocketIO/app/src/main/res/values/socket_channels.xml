@@ -1,0 +1,7 @@
+<resources>
+    <string name="userMessage">user_uttered</string>
+    <string name="botMessage">bot_uttered</string>
+    <string name="sessionRequest">session_request</string>
+    <string name="botErrorMessage">bot_error_message</string>
+    <string name="startConversation">start_conversation</string>
+</resources>
