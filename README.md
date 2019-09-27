@@ -9,6 +9,8 @@ To try the application, download this repository. The following picture shows th
   <img src="/images/architecture_en.png" width="425">
 </p>
 
+The next steps are to install the android application and start the Rasa NLU, Rasa Core, Action and LanguageTool Server.
+
 ## Frontend - Android
 Frontend was developed in Android. To install on device, start Android Studio and edit the file `Constants.java`.
 To make application work on your phone, the IP-address needs to be set to the IP address of the server (or laptop, if it runs locally). If application runs locally, it is important, that client and server are in the same network, otherwise it won't work. Alternative: use [ngrok](https://ngrok.com/), which exposes your local server. Note: ngrok should be used for testing purposes only!
