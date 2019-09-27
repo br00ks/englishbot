@@ -3,8 +3,8 @@
 EnglishBot is a Android application prototype to practice English with. Its main component is a conversational agent based on Rasa. The focus is on university specific vocabulary.
 
 ## How to use
-To try the application, download this repository. 
-<img src="/images/icon_1024x1024.png" width="75">
+To try the application, download this repository. The following picture shows the architecture of the application.
+<img src="/images/architecture_en.png" width="75">
 
 ## Frontend - Android
 Frontend was developed in Android. To install on device, start Android Studio and edit the file `Constants.java`.
