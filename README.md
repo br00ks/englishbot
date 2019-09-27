@@ -4,7 +4,7 @@ EnglishBot is a Android application prototype to practice English with. Its main
 
 ## How to use
 To try the application, download this repository. The following picture shows the architecture of the application.
-<img src="/images/architecture_en.png" width="75">
+<img src="/images/architecture_en.png">
 
 ## Frontend - Android
 Frontend was developed in Android. To install on device, start Android Studio and edit the file `Constants.java`.
