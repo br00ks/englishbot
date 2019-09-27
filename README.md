@@ -8,6 +8,7 @@ To make application work on your phone, the IP-address needs to be set to the IP
 
 ## Backend - Rasa Stack
 The backend is based on the open source machine learning framework [Rasa](https://rasa.com).
+More information to start backend [here](https://github.com/br00ks/englishbot/tree/master/backend)
 
 ## Error Correction - LanguageTool
 A LanguageTool Server takes care of error correction. It's an open source proof reading tool for English and many other languages and comes with an own local java server. The server can be accessed via HTTP calls and gets back the results als JSON data.
