@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: EnglishBot
+logo: /images/logo.png
+description: EnglishBot Prototype
+show_downloads: true
+theme: jekyll-theme-minimal
