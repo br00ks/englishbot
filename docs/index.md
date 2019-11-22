@@ -6,7 +6,6 @@ Check out this video to see the prototype in use:
 
 
 
-
 <br/>
 # Thesis
 This prototype is based on my master thesis, which is available in German 
