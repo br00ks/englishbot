@@ -6,4 +6,4 @@ Check out this video to see the prototype in use:
 
 ## Thesis
 This prototype is based on my master thesis, which is available in German 
-<a href="/assets/thesis_lampesberger_cc.pdf" target="_blank">here</a>
+<a href="assets/thesis_lampesberger_cc.pdf" target="_blank">here</a>
