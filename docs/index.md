@@ -1,5 +1,5 @@
 # EnglishBot
-EnglishBot is a Android application prototype to practice English with. Its main component is a conversational agent based on Rasa. The focus is on university specific vocabulary. 
+EnglishBot is a Android application prototype to practice English with. Its main component is a conversational agent based on the open source conversational framework [Rasa](https://rasa.com/). The focus is on university specific vocabulary. 
 
 Check out this video to see the prototype in use:
 <video src="englishbot.mp4" width="500" controls preload></video>
