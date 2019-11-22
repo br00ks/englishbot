@@ -19,8 +19,7 @@ spelling_ignore_list = load_spelling_ignore_file()
 
 
 class LanguageTool:
-    """ class to communicate with LanguageTool Server, adapted class from 
-        https://github.com/kelvinlouis/ip6-chatbot/blob/master/backend/languagetool/api.py """
+    """ class to communicate with LanguageTool Server """
 
     def __init__(self, server_url, server_port, api_version="v2"):
         self.api_url = "http://{}:{}/{}".format(server_url, server_port, api_version)
