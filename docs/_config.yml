@@ -1,5 +1,5 @@
 title: EnglishBot
 logo: /images/logo.png
 description: EnglishBot Prototype
-show_downloads: true
-theme: jekyll-theme-cayman
+show_downloads: false
+theme: jekyll-theme-minimal
