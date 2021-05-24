@@ -25,7 +25,7 @@ The EnglishBot app needs four services that need to be started:
 `make java-server`
 
 ## Retrain models
-You can rtrain the models as follows:
+You can retrain the models as follows:
 
 `rasa train`
 
