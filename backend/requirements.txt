@@ -49,7 +49,7 @@ sklearn-crfsuite==0.3.6
 psycopg2-binary==2.8.2
 pandas~=0.24.1
 pydictionary
-nltk==3.4.5
+nltk==3.6.5
 wiktionaryparser==0.0.97
 beautifulsoup4==4.4.0
 deepdiff==3.3.0
